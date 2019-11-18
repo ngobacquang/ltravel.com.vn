@@ -1,0 +1,34 @@
+﻿#ProductControlProperty{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ProductControlProperty .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ProductControlProperty .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ProductControlProperty .BgTabTitle a{font-weight:bold;line-height:26px}
+#ProductControlProperty .split{float:left;width:9px;text-align:center}
+#ProductControlProperty .cot1,#ProductControlProperty .cot2,#ProductControlProperty .cot3,#ProductControlProperty .cot4,#ProductControlProperty .cot5,#ProductControlProperty .cot6,#ProductControlProperty .cot7{float:left}
+#ProductControlProperty .cot1{width:30px;text-align:center}
+#ProductControlProperty .cot2{width:220px;padding-left:5px}
+#ProductControlProperty .cot3{width:100px;padding-left:5px}
+#ProductControlProperty .cot4{width:100px}
+#ProductControlProperty .cot5{width:55px}
+#ProductControlProperty .cot6{width:70px}
+#ProductControlProperty .cot7{width: 120px;text-align: right;float:right;padding-right:10px}
+#ProductControlProperty input[type=text]{width:40px;text-align:center}
+
+#ProductControlProperty .content{}
+#ProductControlProperty .content .FormatCellItem{background-color: #F2F2F2}
+#ProductControlProperty .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#ProductControlProperty .content .FormatCellItemOther{background-color: transparent}
+#ProductControlProperty .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#ProductControlProperty .content .pdCellItem{padding: 10px 0}
+#ProductControlProperty .content .pdCellItemOther{padding: 10px 0}
+
+#ProductControlProperty .content .splitc{float:left;width:9px;text-align:center}
+#ProductControlProperty .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ProductControlProperty .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ProductControlProperty .content .Tool{ padding-left: 10px;float: right}
+#ProductControlProperty .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#ProductControlProperty .EnableIcon0,#ProductControlProperty .EnableIcon1{padding-top: 3px}
+
+#ProductControlProperty .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#ProductControlProperty .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}

@@ -1,0 +1,24 @@
+[
+  {
+    "outputFileName": "Themes/Theme01/Assets/Js/__Homepage.min.js",
+    "inputFiles": [
+      "Themes/Theme01/Assets/Js/jquery-3.2.1.min.js",
+      "themes/theme01/assets/js/jquery-ui-1.12.1/jquery-ui.min.js",
+      "Themes/Theme01/Assets/Js/fancybox-master/dist/jquery.fancybox.js",
+      "Themes/Theme01/Assets/Js/slick-1.8.1/slick/slick.min.js",
+      "themes/theme01/assets/js/datepicker-master/dist/datepicker.min.js",
+      "themes/theme01/assets/js/datepicker-master/i18n/datepicker.vi-vn.js",
+      "themes/theme01/assets/js/datejs-master/build/date.js",
+      "themes/theme01/assets/js/datejs-master/build/date-vi-vn.js",
+      "Themes/Theme01/Assets/Js/TabHelper.js",
+      "Themes/Theme01/Assets/Js/Validate.js",
+      "Themes/Theme01/Assets/Js/_AllModule.js",
+      "themes/theme01/assets/js/__main.js",
+      "themes/theme01/assets/js/smartscroll.min.js",
+      "themes/theme01/assets/js/nbscript.js",
+
+
+      "Themes/Theme01/Assets/Js/__Homepage.js"
+    ]
+  }
+]

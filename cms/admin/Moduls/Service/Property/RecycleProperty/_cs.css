@@ -1,0 +1,37 @@
+﻿#ServiceRecycleProperty{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ServiceRecycleProperty .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ServiceRecycleProperty .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ServiceRecycleProperty .BgTabTitle a{font-weight:bold;line-height:26px}
+#ServiceRecycleProperty .split{float:left;width:9px;text-align:center}
+#ServiceRecycleProperty .cot1,#ServiceRecycleProperty .cot2,#ServiceRecycleProperty .cot3,#ServiceRecycleProperty .cot4,#ServiceRecycleProperty .cot5{float:left}
+#ServiceRecycleProperty .cot1{ width: 30px}
+#ServiceRecycleProperty .cot2{width:220px;padding-left:5px}
+#ServiceRecycleProperty .cot4{width:350px}
+#ServiceRecycleProperty .cot5{width:55px}
+#ServiceRecycleProperty .cot7{float: right;width: 50px;padding-right: 10px}
+#ServiceRecycleProperty input[type=text]{width:40px;text-align:center}
+
+#ServiceRecycleProperty .content{}
+#ServiceRecycleProperty .content .FormatCellItem{background-color: #F2F2F2}
+#ServiceRecycleProperty .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#ServiceRecycleProperty .content .FormatCellItemOther{background-color: transparent}
+#ServiceRecycleProperty .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#ServiceRecycleProperty .content .pdCellItem{padding: 10px 0}
+#ServiceRecycleProperty .content .pdCellItemOther{padding: 10px 0}
+
+#ServiceRecycleProperty .content .splitc{float:left;width:9px;text-align:center}
+#ServiceRecycleProperty .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ServiceRecycleProperty .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ServiceRecycleProperty .content .Tool{ padding-left: 10px;float: right}
+#ServiceRecycleProperty .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#ServiceRecycleProperty .EnableIcon0,#ServiceRecycleProperty .EnableIcon1{padding-top: 3px}
+
+#ServiceRecycleProperty .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#ServiceRecycleProperty .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

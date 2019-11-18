@@ -1,0 +1,38 @@
+﻿#RecycleMenuBottom{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#RecycleMenuBottom .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#RecycleMenuBottom .BgTabTitle{font:bold 11px Tahoma;background:#d4d4d4;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#RecycleMenuBottom .BgTabTitle a{font-weight:bold;line-height:26px}
+#RecycleMenuBottom .split{float:left;width:9px;text-align:center}
+#RecycleMenuBottom .cot1,#RecycleMenuBottom .cot2,#RecycleMenuBottom .cot3,#RecycleMenuBottom .cot4,#RecycleMenuBottom .cot5{float:left}
+#RecycleMenuBottom .cot1{ width: 30px}
+#RecycleMenuBottom .cot2{width:150px;padding-left:5px}
+#RecycleMenuBottom .cot3{width:100px;padding-left:5px}
+#RecycleMenuBottom .cot4{width:320px}
+#RecycleMenuBottom .cot5{width:55px}
+#RecycleMenuBottom .cot7{float: right;width: 50px;padding-right: 10px}
+#RecycleMenuBottom input[type=text]{width:40px;text-align:center}
+
+#RecycleMenuBottom .content{}
+#RecycleMenuBottom .content .FormatCellItem{background-color: #eae9e9}
+#RecycleMenuBottom .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#RecycleMenuBottom .content .FormatCellItemOther{background-color: transparent}
+#RecycleMenuBottom .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#RecycleMenuBottom .content .pdCellItem{padding: 10px 0}
+#RecycleMenuBottom .content .pdCellItemOther{padding: 10px 0}
+
+#RecycleMenuBottom .content .splitc{float:left;width:9px;text-align:center}
+#RecycleMenuBottom .content .SpaceRow{background-color:#2d2d2d;height:1px}
+#RecycleMenuBottom .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#RecycleMenuBottom .content .Tool{ padding-left: 10px;float: right}
+#RecycleMenuBottom .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#RecycleMenuBottom .EnableIcon0,#RecycleMenuBottom .EnableIcon1{padding-top: 3px}
+
+#RecycleMenuBottom .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#RecycleMenuBottom .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

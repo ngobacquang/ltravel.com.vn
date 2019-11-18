@@ -1,0 +1,7 @@
+﻿#AdmRoad{height:27px;font:normal 11px Tahoma;color:#606060;line-height:27px;padding-right:8px;position:relative;z-index:1}
+#AdmRoad .arrow{background:url(ArrowRightRoad.png) no-repeat 5px 12px;padding-left:18px}
+#AdmRoad a.TextRoad{display:inline-block;font:normal 11px Tahoma;color:#606060;line-height:27px;text-decoration:none}
+#AdmRoad a.TextRoad:hover{color:#52c313}
+
+#AdmRoad a.config{position:absolute;z-index:1;top:8px;right:0;color:inherit}
+#AdmRoad a.config:hover{color:#ff6600}

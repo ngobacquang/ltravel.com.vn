@@ -1,0 +1,17 @@
+﻿#ShortcutMember{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:550px;_height:550px;padding:0 20px}
+#ShortcutMember .row{padding-bottom:10px}
+#ShortcutMember .text{float:left;width:130px;padding-top:5px}
+#ShortcutMember .control{float:left;width:600px}
+#ShortcutMember input[type=text]{width:300px}
+#ShortcutMember input[type=text].medium{width:150px}
+#ShortcutMember input[type=text].large{width:598px}
+#ShortcutMember select{width:153px}
+
+#ShortcutMember .head{font:bold 12px Tahoma;padding:15px 0}
+
+#ShortcutMember .khungThuocTinh{border:solid 1px #d4d4d4;padding: 10px 20px}
+#ShortcutMember a.ThietLapAnh{color:Blue;position:absolute;top:10px;right:10px;z-index:2}
+#ShortcutMember a.ThietLapAnh:hover{color:Green}
+#Toogle_ThietLapAnhDaiDien input[type=text]{width:30px;text-align:center}
+#ShortcutMember .imgItem{width: 200px;border: 0}
+#ShortcutMember .GhiChuMatKhau{font:bold 12px Arial;padding-top:10px;padding-bottom:5px}

@@ -1,0 +1,97 @@
+﻿/*#region Roboto */
+@font-face {
+	font-family: 'Roboto';
+	src: url('../fonts/roboto.ttf'), url('../fonts/roboto.woff');
+}
+
+@font-face
+{
+    font-family: 'Roboto';
+    src: url('../fonts/robotobold.ttf'), url('../fonts/robotobold.woff');
+    font-weight:bold;
+}
+/*#endregion */
+
+/*#region UtmSeagull */
+@font-face {
+    font-family: 'UtmSeagull';
+	src: url('../fonts/utmseagullbold.ttf'), url('../fonts/utmseagullbold.woff');
+    font-weight:bold;
+}
+
+@font-face {
+    font-family: 'UtmSeagull';
+	src: url('../fonts/utmseagullbolditalic.ttf'), url('../fonts/utmseagullbolditalic.woff');
+    font-weight:bold;
+    font-style:italic;
+}
+/*#endregion */
+
+/*#region UvnVan */
+@font-face {
+    font-family: 'UvnVan';
+	src: url('../fonts/uvnvan.ttf'), url('../fonts/uvnvan.woff');
+}
+
+@font-face {
+    font-family: 'UvnVan';
+	src: url('../fonts/uvnvanbold.ttf'), url('../fonts/uvnvanbold.woff');
+    font-weight:bold;
+}
+/*#endregion */
+
+/*#region UtmAndrogyne */
+@font-face {
+    font-family: 'UtmAndrogyne';
+	src: url('../fonts/UtmAndrogyne.ttf'), url('../fonts/UtmAndrogyne.woff');
+}
+/*#endregion */
+/*UTM Avo*/
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('../Fonts/UTM-Avo/UTM Avo.ttf') format('truetype'), url('../Fonts/UTM-Avo/UTMAvo.svg') format('svg'), url('../Fonts/UTM-Avo/UTMAvo.woff') format('woff');
+}
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('../Fonts/UTM-Avo/UTM AvoBold.ttf') format('truetype'), url('../Fonts/UTM-Avo/UTMAvoBold.woff') format('woff'), url('../Fonts/UTM-Avo/UTMAvoBold.svg') format('svg');
+	font-weight: bold;
+}
+@font-face {
+    font-family: 'UTM Avo';
+    src: url('../Fonts/UTM-Avo/UTM AvoItalic.ttf') format('truetype'), url('../Fonts/UTM-Avo/UTMAvo-Italic.woff') format('woff'), url('../Fonts/UTM-Avo/UTMAvo-Italic.svg') format('svg');
+	font-weight: 300;
+}
+
+/* end font - UTM Avo */
+/* Myriad Pro */
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../Fonts/MyriadPro/MYRIADPRO-BOLD.OTF') format('opentype'), url('../Fonts/MyriadPro/MyriadPro-Bold.svg') format('svg'), url('../Fonts/MyriadPro/MyriadPro-Bold.ttf') format('truetype'), url('../Fonts/MyriadPro/MyriadPro-Bold.woff') format('woff');
+	font-weight: bold;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../Fonts/MyriadPro/MyriadPro-Light.svg') format('svg'), url('../Fonts/MyriadPro/MyriadPro-Light.ttf') format('truetype'), url('../Fonts/MyriadPro/MyriadPro-Light.woff') format('woff'), url('../Fonts/MyriadPro/MYRIADPRO-LIGHT_0.OTF') format('opentype');
+	font-weight: 300;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../Fonts/MyriadPro/MYRIADPRO-REGULAR.OTF') format('opentype'), url('../Fonts/MyriadPro/MyriadPro-Regular.svg') format('svg'), url('../Fonts/MyriadPro/MyriadPro-Regular.ttf') format('truetype'), url('../Fonts/MyriadPro/MyriadPro-Regular.woff') format('woff');
+}
+/* end Myriad Pro*/
+/*Segoe UI*/
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../Fonts/Segoe_UI/Segoe UI Bold.ttf') format('truetype'), url('../Fonts/Segoe_UI/SegoeUI-Bold.woff') format('woff');
+	font-weight: bold;
+}
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../Fonts/Segoe_UI/Segoe UI Italic.ttf') format('truetype'), url('../Fonts/Segoe_UI/SegoeUI-Italic.woff') format('woff');
+	font-weight: 300;
+}
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../Fonts/Segoe_UI/Segoe UI.ttf') format('truetype'), url('../Fonts/Segoe_UI/SegoeUI.woff') format('woff');
+}
+/*end Segoe UI*/

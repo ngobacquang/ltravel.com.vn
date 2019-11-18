@@ -1,0 +1,8 @@
+﻿/*AdmControlsConfiguration.ascx*/
+#AdmControlsConfig{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:550px;_height:550px;padding:15px}
+#AdmControlsConfig input[type=text]{width:30px;text-align:center}
+#AdmControlsConfig .khungThuocTinh{border:solid 1px #d4d4d4;padding:10px 20px}
+#AdmControlsConfig .cot1{float:left;width:100px}
+#AdmControlsConfig .cot2{float:left;width:580px}
+#AdmControlsConfig .title{font:bold 12px Tahoma}
+#AdmControlsConfig .item{float:left;width:300px;margin-right:12px;margin-bottom:10px}

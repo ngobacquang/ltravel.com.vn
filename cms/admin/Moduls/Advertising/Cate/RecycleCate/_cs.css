@@ -1,0 +1,37 @@
+﻿#AdvertisingRecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#AdvertisingRecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#AdvertisingRecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#d4d4d4;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#AdvertisingRecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#AdvertisingRecycleCate .split{float:left;width:9px;text-align:center}
+#AdvertisingRecycleCate .cot1,#AdvertisingRecycleCate .cot2,#AdvertisingRecycleCate .cot3,#AdvertisingRecycleCate .cot4,#AdvertisingRecycleCate .cot5{float:left}
+#AdvertisingRecycleCate .cot1{ width: 30px}
+#AdvertisingRecycleCate .cot2{width:220px;padding-left:5px}
+#AdvertisingRecycleCate .cot4{width:350px}
+#AdvertisingRecycleCate .cot5{width:55px}
+#AdvertisingRecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#AdvertisingRecycleCate input[type=text]{width:40px;text-align:center}
+
+#AdvertisingRecycleCate .content{}
+#AdvertisingRecycleCate .content .FormatCellItem{background-color: #eae9e9}
+#AdvertisingRecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#AdvertisingRecycleCate .content .FormatCellItemOther{background-color: transparent}
+#AdvertisingRecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#AdvertisingRecycleCate .content .pdCellItem{padding: 10px 0}
+#AdvertisingRecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#AdvertisingRecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#AdvertisingRecycleCate .content .SpaceRow{background-color:#2d2d2d;height:1px}
+#AdvertisingRecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#AdvertisingRecycleCate .content .Tool{ padding-left: 10px;float: right}
+#AdvertisingRecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#AdvertisingRecycleCate .EnableIcon0,#AdvertisingRecycleCate .EnableIcon1{padding-top: 3px}
+
+#AdvertisingRecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#AdvertisingRecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

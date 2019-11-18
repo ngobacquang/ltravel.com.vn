@@ -1,0 +1,363 @@
+﻿.container{padding-top:15px}
+.colRight{float:right;min-height:870px;width:78%}
+.iconThemAnh{width:16px;height:16px;cursor:pointer;display:inline-block}
+.iconThemAnh{background:url(AddPictures.png) no-repeat}
+/*Menu trái*/
+.colLeft{float:left;width:22%}
+.colLeft .head{background:#e6e6e6;display:block;font-size:12px;font-weight:bold;margin-right:5px;padding:8px 10px;position:relative;z-index:1}
+.colLeft .head span{border-color:#4e4e4e transparent transparent transparent;border-style:solid;border-width:8px 6px 0 0;bottom:-8px;display:inline-block;height:0;position:absolute;right:0;width:0;z-index:1}
+.colLeft .subHead{border-bottom:solid 1px #e6e6e6;font-weight:bold;margin-left:1px;margin-right:10px;margin-top:8px;padding:7px 0 7px 10px}
+.colLeft .tool{background-position:center left 6px;background-repeat:no-repeat;display:block;padding:7px 0 7px 30px;position:relative;z-index:1;}
+.colLeft .subtool{display:block;padding:7px 0 7px 40px}
+.colLeft .tool.current{background-color:#f9f9f9;box-shadow:0 0 0 1px #dfdfdf;left:0;position:relative;top:-1px;z-index:1}
+.colLeft .tool.current:after{background:#f9f9f9;content:"";display:block;height:100%;position:absolute;right:-2px;top:0;width:5px;z-index:1}
+.colLeft .subtool.current{color:#00ad24}
+
+/*Các icon ở menu trái*/
+.plus:before{background:url(plus.png) no-repeat center;content:"";display:inline-block;height:10px;left:18px;position:absolute;top:6px;width:10px;z-index:1;}
+.tCate{background-image:url(tCate.png)}
+.tItem{background-image:url(tItem.png)}
+.tComment{background-image:url(tComment.png)}
+.tBooking{background-image:url(tBooking.png)}
+.tVideo{background-image:url(tVideo.png)}
+.tPhoto{background-image:url(tPhoto.png)}
+.tGroup{background-image:url(tGroup.png)}
+.tVehicle{background-image:url(tVehicle.png)}
+.tService{background-image:url(tService.png)}
+.tFacility{background-image:url(tFacility.png)}
+.tProperty{background-image:url(tProperty.png)}
+
+.tConfig{background-image:url(tConfig.png)}
+.tRecycle{background-image:url(tRecycle.png)}
+
+
+/*Trang danh mục*/
+#ControlCate { border: solid 1px #d4d4d4; background: #f9f9f9; min-height: 650px; }
+#ControlCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ControlCate .BgTabTitle{background:#eae9e9;border-bottom:solid 1px #fff;border-top:solid 1px #fff;font:bold 11px Tahoma;height:28px;line-height:26px}
+#ControlCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#ControlCate .split{float:left;text-align:center;width:9px}
+#ControlCate .cot1,
+#ControlCate .cot2,
+#ControlCate .cot3,
+#ControlCate .cot4,
+#ControlCate .cot5,
+#ControlCate .cot6,
+#ControlCate .cot7{float:left}
+#ControlCate .cot1{text-align:center;width:30px}
+#ControlCate .cot2{padding-left:10px;position:relative;width:220px;z-index:1}
+#ControlCate .cot3{padding-left:5px;width:100px}
+#ControlCate .cot4{width:100px}
+#ControlCate .cot5{width:55px}
+#ControlCate .cot6{width:70px}
+#ControlCate .cot7{padding-right:5px;text-align:right;width:115px}
+#ControlCate input[type=text]{text-align:center;width:40px}
+
+#ControlCate .content{}
+#ControlCate .content .FormatCellItem{background-color:#F2F2F2}
+#ControlCate .content .FormatCellItem:hover{background-color:#edf9eb}
+
+#ControlCate .content .FormatCellItemOther{background-color:transparent}
+#ControlCate .content .FormatCellItemOther:hover{background-color:#edf9eb}
+
+#ControlCate .content .pdCellItem{padding:10px 0}
+#ControlCate .content .pdCellItemOther{padding:10px 0}
+
+#ControlCate .content .splitc{float:left;text-align:center;width:9px}
+#ControlCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ControlCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ControlCate .content .Tool{float:right;padding-left:10px}
+#ControlCate .content .TextInBox{font:normal 11px Tahoma;text-align:center;width:30px}
+#ControlCate .EnableIcon0,
+#ControlCate .EnableIcon1{padding-top:3px}
+
+#ControlCate .IcoArrowShow0{background:url(ico-arrow-current.png) center 3px no-repeat;display:block;height:12px;left:-4px;position:absolute;top:1px;width:15px;z-index:1}
+#ControlCate .IcoArrowShow1{background:url(ico-arrow-show.png) center 3px no-repeat;display:block;height:12px;left:-4px;position:absolute;top:1px;width:15px;z-index:1}
+
+#ControlItem .iconEdit,
+#ControlItem .iconDelete,
+#ControlCate .iconEdit,
+#ControlCate .iconDelete,
+#ControlCate .iconItem{background:url(iconDelete.png) no-repeat left center;display:inline-block;height:21px;margin-left:5px;position:relative;width:21px;z-index:1}
+#ControlItem .iconEdit,
+#ControlCate .iconEdit{background-image:url(iconEdit.png)}
+#ControlCate .iconItem{background-image:url(tItem.png)}
+#ControlCate .iconItem.plus:before{left:10px}
+
+/*Cấu hình*/
+#ControlsConfig{padding:20px}
+#ControlsConfig .smalltextbox input[type=text]{text-align:center;width:30px}
+#ControlsConfig .khungThuocTinh{border:solid 1px #dfdfdf;padding:10px 20px}
+#ControlsConfig .cot1{float:left;width:100px}
+#ControlsConfig .cot2{float:left;width:580px}
+#ControlsConfig .img{max-height:180px;max-width:240px;padding:5px 0}
+
+
+/*Insert form*/
+.InsertPanel .row{overflow:hidden;padding-bottom:10px}
+.InsertPanel .text{float:left;width:150px;padding-top:2px}
+.InsertPanel .control{float:left;width:calc(100% - 150px)}
+.InsertPanel .control input[type=text],
+.InsertPanel .control input[type=password],
+.InsertPanel .control textarea,
+.InsertPanel .control select{box-sizing:border-box;padding:2px 5px;width:100%}
+.InsertPanel .control textarea{height:80px}
+.InsertPanel .control input[type=text].autoNumeric{width:86px}
+.InsertPanel .control input[type=text].stb,
+.InsertPanel .control input[type=password].stb{width:150px}
+
+.InsertPanel .control input[type=text].width2,
+.InsertPanel .control input[type=password].width2,
+.InsertPanel .control textarea.width2,
+.InsertPanel .control select.width2{width:30%}
+
+.InsertPanel .row-4{width:33.33%}
+.InsertPanel .cwauto .text,
+.InsertPanel .cwauto .control{width:auto;padding-left:10px}
+
+
+
+.InsertPanel a.ThietLapAnh{color:Blue;position:absolute;right:10px;top:10px;z-index:2}
+.InsertPanel .iconDelete{background:url(delete.png) no-repeat center left;height:initial;width:initial}
+.InsertPanel .UploadImage img{max-height:90px;max-width:120px;padding:5px 0}
+.InsertPanel .giaNY{text-decoration:line-through;padding-right:10px}
+.InsertPanel .giaKM{font-size:larger;font-weight:bold;color:#f56b3b}
+
+.InsertPanel .controlBox{padding:20px 15px}
+.InsertPanel .head{background:#dfdfdf;font-size:12px;font-weight:bold;padding:8px 8px 8px 20px}
+.InsertPanel .subHead{font-size:12px;font-weight:bold;padding-bottom:15px;padding-top:10px}
+.InsertPanel .controlImg{float:left;width:580px}
+.InsertPanel .khungThuocTinh{border:solid 1px #dfdfdf;max-height:200px;overflow:auto;padding:10px 15px;}
+.InsertPanel a.ThietLapAnh{color:Blue;position:absolute;right:10px;top:10px;z-index:2}
+.InsertPanel a.ThietLapAnh:hover{color:Green}
+.InsertPanel .Toogle_ThietLapAnhDaiDien input[type=text]{text-align:center;width:45px}
+.InsertPanel input[type=submit]{background:#4AA02C;border:0;border-radius:2px;color:#fff;cursor:pointer;display:inline-block;margin-right:10px;padding:8px 30px}
+.InsertPanel input[type=submit]:hover{box-shadow:0 0 3px #666}
+.InsertPanel .iconDelete{background:url(iconDelete.png) no-repeat left center;display:inline-block;line-height:22px;padding-left:22px;}
+.InsertPanel .iconEdit{background:url(iconEdit.png) no-repeat left center;display:inline-block;line-height:22px;padding-left:22px;}
+.InsertPanel .thongBaoTaoXong{padding:10px;font-weight:bold;color:red;font-size:14px;position:fixed;z-index:1;right:0;bottom:0}
+
+/*Khối thuộc tính*/
+.InsertPanel .cblThuocTinh{overflow:hidden;width:100%}
+.InsertPanel .cblThuocTinh .imgProp{width:20px;height:20px;padding-right:5px;transform:translateY(5px)}
+.InsertPanel .cblThuocTinh tr{width:45%;float:left}
+
+/*SEO*/
+.InsertPanel .KhungToiUu{border: solid 1px #d3d3d3;background-color: #e3e3e3}
+.InsertPanel .PdKhungToiUu{padding: 5px 10px}
+
+/*Chọn điểm đến trong phần thêm tour*/
+.InsertPanel .chonDienDen{padding-top:5px}
+.InsertPanel .chonDienDen .col1,
+.InsertPanel .chonDienDen .col3{border:solid 1px #dfdfdf;box-sizing:border-box;float:left;height:200px;overflow:auto;width:42%;}
+.InsertPanel .chonDienDen .col2{float:left;padding-top:50px;text-align:center;width:16%;}
+.InsertPanel .chonDienDen .head{background:#dfdfdf;padding:5px 10px}
+.InsertPanel .chonDienDen .chon,
+.InsertPanel .chonDienDen .bochon{background:#edf9eb;border:solid 1px #dfdfdf;border-radius:3px;display:inline-block;font-weight:bold;margin-bottom:10px;padding:10px 20px;text-align:center;}
+.InsertPanel .chonDienDen .chon:hover,
+.InsertPanel .chonDienDen .bochon:hover{background:#4AA02C;border-color:#4AA02C;color:#fff;}
+
+@-webkit-keyframes blink{
+    0%{background:rgba(74,160,44,0.5);}
+    50%{background:rgba(74,160,44,0);}
+    100%{background:rgba(74,160,44,0.5);}
+}
+@keyframes blink{
+    0%{background:rgba(74,160,44,0.5);}
+    50%{background:rgba(74,160,44,0);}
+    100%{background:rgba(74,160,44,0.5)}
+}
+
+.InsertPanel .chonDienDen .hover{animation:blink 1s ease-in 0.5s infinite}
+
+
+.InsertPanel .chonDienDen .dest0{padding:5px}
+.InsertPanel .chonDienDen .dest1{padding-left:15px}
+.InsertPanel .chonDienDen .dest2{padding-left:25px}
+.InsertPanel .chonDienDen .dest3{padding-left:35px}
+
+/*Menu di chuyển nhanh ở bên phải*/
+#QuickMenuRight{position:fixed;z-index:2;top:50%;transform:translateY(-50%);width:222px;right:-116px;overflow:hidden}
+#QuickMenuRight{transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-webkit-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s}
+#QuickMenuRight a{display:block;background:rgba(71,196,0,0.9);margin-bottom:1px;padding:3px 10px;color:#fff;white-space:nowrap;position:relative;z-index:1;left:80px;border-radius:3px}
+#QuickMenuRight a:hover{background:rgba(255,142,1,0.8)}
+#QuickMenuRight .headTab,
+#QuickMenuRight .textFinish{font-weight:bold;background:rgba(255,142,1,0.9);left:0}
+#QuickMenuRight:hover{right:0;background:#fff}
+#QuickMenuRight:hover a{left:0}
+.InsertPanel .text.focus{box-shadow:0 1px 0 0 rgba(255,142,1,1);color:rgba(255,142,1,1)}
+
+
+/*Popup thêm thông tin phụ*/
+.fadePopup{background:rgba(0,0,0,0.5);display:none;height:100%;left:0;position:fixed;top:0;width:100%;z-index:8;}
+.lightPopup{background:rgba(255,255,255,0.2);border-radius:5px;display:none;left:10%;padding:5px;position:fixed;top:8vh;width:80%;z-index:9;}
+.lightPopupBox{background:#fff;border-radius:5px;height:88vh;overflow:auto;}
+.lightPopup .btClose{background:url(delete.png) no-repeat left center;color:#fff;display:block;font-size:14px;padding-left:20px;position:absolute;right:0;top:-20px;z-index:1;}
+.lightPopupBox iframe{height:100%}
+.lightPopupBox .emptyresult{font-size:14px;line-height:25px;padding-top:30vh;text-align:center;}
+
+table.formatted{border-collapse:collapse;width:100%}
+table.formatted th,
+table.formatted td{border:solid 1px #dfdfdf;padding:5px;}
+table.formatted img.itiImage{max-height:60px;width:60px;float:left;padding-right:5px}
+table.formatted img.itiImage:hover{transform:scale(3)}
+table.formatted th.stt{width:25px}
+table.formatted th.thuTu{width:40px}
+table.formatted th.trangThai{width:60px}
+table.formatted th.congCu{width:100px}
+
+
+#RecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#RecycleCate .BgTabTitle{background:#eae9e9;border-bottom:solid 1px #fff;border-top:solid 1px #fff;font:bold 11px Tahoma;height:28px;line-height:26px}
+#RecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#RecycleCate .split{float:left;text-align:center;width:9px}
+#RecycleCate .cot1,
+#RecycleCate .cot2,
+#RecycleCate .cot3,
+#RecycleCate .cot4,
+#RecycleCate .cot5{float:left}
+#RecycleCate .cot1{width:30px}
+#RecycleCate .cot2{padding-left:5px;width:220px}
+#RecycleCate .cot4{width:350px}
+#RecycleCate .cot5{width:55px}
+#RecycleCate .cot7{float:right;padding-right:10px;width:50px}
+#RecycleCate input[type=text]{text-align:center;width:40px}
+
+#RecycleCate .content{}
+#RecycleCate .content .FormatCellItem{background-color:#F2F2F2}
+#RecycleCate .content .FormatCellItem:hover{background-color:#edf9eb}
+
+#RecycleCate .content .FormatCellItemOther{background-color:transparent}
+#RecycleCate .content .FormatCellItemOther:hover{background-color:#edf9eb}
+
+#RecycleCate .content .pdCellItem{padding:10px 0}
+#RecycleCate .content .pdCellItemOther{padding:10px 0}
+
+#RecycleCate .content .splitc{float:left;text-align:center;width:9px}
+#RecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#RecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#RecycleCate .content .Tool{float:right;padding-left:10px}
+#RecycleCate .content .TextInBox{font:normal 11px Tahoma;text-align:center;width:30px}
+#RecycleCate .EnableIcon0,
+#RecycleCate .EnableIcon1{padding-top:3px}
+
+#RecycleCate .IcoArrowShow0{background:url(ico-arrow-current.png) center 3px no-repeat;display:block;float:left;height:12px;width:15px}
+#RecycleCate .IcoArrowShow1{background:url(ico-arrow-show.png) center 3px no-repeat;display:block;float:left;height:12px;width:15px}
+
+.ColPrintAndExcel{float:right;margin-top:-25px;width:50px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+
+
+/******Trang danh sách*****/
+/*AdmControlsItems.ascx*/
+/*#ControlItem .content{min-height:350px}*/
+#ControlItem .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px;position:relative;z-index:1}
+#ControlItem .BgTabTool .right{position:absolute;right:5px;top:5px;z-index:2}
+
+#ControlItem .BgTabTitle{background:#eae9e9;border-bottom:solid 1px #fff;border-top:solid 1px #fff;font:bold 11px Tahoma;height:28px;line-height:26px}
+#ControlItem .BgTabTitle a{font-weight:bold;line-height:26px}
+#ControlItem .SizeImage{border:0;padding-right:5px;width:90px}
+#ControlItem .split{float:left;text-align:center;width:9px}
+#ControlItem .cot1,
+#ControlItem .cot2,
+#ControlItem .cot3,
+#ControlItem .cot4,
+#ControlItem .cot5,
+#ControlItem .cot6{float:left}
+#ControlItem .cot1{width:35px}
+#ControlItem .cot2{padding-left:5px;width:250px}
+#ControlItem .cot3{width:110px}
+#ControlItem .cot4{width:70px}
+#ControlItem .cot5{width:70px}
+#ControlItem .bgItem{padding:6px 0}
+#ControlItem .bgItem:hover{background:#edf9eb}
+#ControlItem .vien{background:#dfdfdf;height:1px}
+#ControlItem .BgButtonSearch{background:url(SearchButton.png) no-repeat;display:inline-block;height:20px;width:59px}
+#ControlItem .BgButtonSearch:hover{background:url(SearchButtonHover.png) no-repeat}
+#ControlItem .TxtInBox{font:normal 11px Arial}
+#ControlItem .True,
+#ControlItem .true{display:inline-block}
+#ControlItem .False,
+#ControlItem .false{display:none}
+
+.ColPrintAndExcel{float:right;margin-top:-25px;width:50px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+
+#SubItemSearch{bottom:0;left:0;position:fixed;width:100%;z-index:2}
+#SubItemSearch .frame{background:#f3f2ea;border-top:solid 2px #4aa02c;box-shadow:0 0 0 1px #fff, 0 0 6px 3px #afafaf;margin:auto;width:996px}
+#SubItemSearch .frame2{margin:auto;padding:12px 0;width:850px}
+#SubItemSearch a.lbtSearch{background:url(timkiem.png) no-repeat;display:inline-block;height:20px;width:95px}
+#SubItemSearch input[type=text],
+#SubItemSearch select{border:solid 1px #bebba7;color:#333;font:normal 12px Tahoma;padding:2px 5px;width:230px}
+#SubItemSearch select{padding:1px;width:235px}
+
+
+#ControlItem, #RecycleCate, #ControlsConfig, #ShortCutCate, #ShortCutItem{border: solid 1px #d4d4d4;background: #f9f9f9;min-height: 800px;}
+#ControlItem .ColShowItem{float:right;padding-top:0;width:120px}
+#ControlItem .ColShowItem .TextShow{float:left;padding-right:5px;padding-top:0;width:50px}
+#ControlItem .ColShowItem .BoxShow{float:left;width:50px}
+#ControlItem .ColPagging{float:right;width:auto}
+#ControlItem .AdminPagging a{}
+#ControlItem .AdminPagging .currentPS{line-height:12px;margin:1px;padding:3px 9px}
+#ControlItem .AdminPagging .otherPS{line-height:12px;margin:1px;padding:3px 9px}
+#ControlItem .AdminPagging .firstPS{line-height:12px;margin:1px;padding:3px 19px}
+#ControlItem .AdminPagging .lastPS{line-height:12px;margin:1px;padding:3px 19px}
+#ControlItem .AdminPagging .previewPS{line-height:12px;margin:1px;padding:3px 12px}
+#ControlItem .AdminPagging .nextPS{line-height:12px;margin:1px;padding:3px 12px}
+
+#FooterRightControl{border-top:none;text-align:right}
+#FooterRightControl .pdFooterR{padding-left:10px}
+#FooterRightControl .ColShowItem{float:right;padding-top:12px;padding-bottom:12px;width:120px;}
+#FooterRightControl .ColShowItem .TextShow{float:left;padding-top:3px;width:50px;padding-right:5px}
+#FooterRightControl .ColShowItem .BoxShow{float:left;width:50px}
+#FooterRightControl .ColPagging{float:left;width:600px}
+/*AdmControlsItems.ascx*/
+
+
+#ControlComment .cot2{width:420px}
+#ControlComment .cmtContent{max-height:200px;overflow:auto;padding-right:10px}
+
+/*Hưng custom*/
+input[type=text], select { height: 26px; padding: 0 5px; box-sizing: border-box; }
+textarea { padding: 5px; box-sizing: border-box; }
+
+.px-3 {padding-left: 3px;padding-right: 3px}
+.px-4 {padding-left: 4px;padding-right: 4px}
+
+.border-box {box-sizing: border-box}
+
+.flex-center { display: flex; align-items: center }
+.flex-center > label { padding-bottom: 2px }
+
+.table-center td { display: flex; align-items: center; padding-top: 3px; padding-bottom: 3px }
+
+.box-stt { height: 16px!important; padding-bottom: 2px!important }
+.box-cb { display: flex; justify-content: center }
+.box-cb input[type="checkbox"] { margin-top: 2px }
+
+.box-cc { display: flex; justify-content: flex-end }
+.box-cc > a { display: flex }
+.box-cc > .dn { display: none!important }
+.box-cc > a > * { width: 16px!important; height: 16px!important; margin-left: 0!important; background-position: center!important; }
+
+.box-post { display: flex }
+.box-post .cot1 { flex-shrink: 0; width: 24px!important; padding-left: 2px!important; box-sizing: border-box }
+.box-post .cot2 { flex-grow: 1; padding-right: 5px }
+.box-post .cot3 { width: 105px!important; flex-shrink: 0 }
+.box-post .cot4 { width: 80px!important; flex-shrink: 0 }
+.box-post .cot5 { width: 80px!important; flex-shrink: 0 }
+.box-post .cot7 { width: 90px; flex-shrink: 0 }
+.box-post .split { width: 10px!important; flex-shrink: 0 }
+
+.box-video-desc { background-color: #ededed; border: 1px dashed #d8d8d8; padding: 7px 6px 5px; margin-top: 8px; width: 600px; box-sizing: border-box }
+.box-video-desc>span { margin-bottom: 3px; display: block }
+.box-video-desc>ul { margin-top: .5em; margin-bottom: .5em; padding-left: 25px }
+.box-video-desc>ul>li { padding:2px 0; color:#666 }
+
+#LocDuyetTin a.lbtSearch { display: inline-block; margin: auto; width: 95px; height: 20px; background: url(/cms/admin/Moduls/New/Item/ControlItem/timkiem.png) no-repeat; }
+#LocDuyetTin { display: flex; flex-direction: column; padding: 0 20px 0 13px }
+#LocDuyetTin .LocTitle { padding: 15px 0 5px }
+#LocDuyetTin .rangeTime { display: flex; width: 100%; justify-content: space-between; margin-bottom: 20px }
+#LocDuyetTin .rangeTime input { width: calc(50% - 2px) }

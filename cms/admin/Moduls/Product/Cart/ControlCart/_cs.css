@@ -1,0 +1,27 @@
+﻿#ControlCart{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ControlCart .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px;position:relative;z-index:1}
+#ControlCart .BgTabTool .right{position:absolute;z-index:2;right:5px;top:5px}
+
+#ControlCart .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ControlCart .BgTabTitle a{font-weight:bold;line-height:26px}
+#ControlCart .SizeImage{width:90px;border:0;padding-right:5px}
+#ControlCart .split{float:left;width:9px;text-align:center}
+#ControlCart .cot1,#ControlCart .cot2,#ControlCart .cot3,#ControlCart .cot4,#ControlCart .cot5,#ControlCart .cot6
+{float:left}
+#ControlCart .cot1{width:35px}
+#ControlCart .cot2{width:225px;padding-left:5px}
+#ControlCart .cot3{width:320px}
+#ControlCart .cot4{width:60px}
+#ControlCart .cot5{width:70px}
+#ControlCart .tool a{padding:0 3px}
+#ControlCart .bgItem{padding:6px 0}
+#ControlCart .bgItem:hover{background:#edf9eb}
+#ControlCart .vien{height:1px;background:#d4d4d4}
+#ControlCart .BgButtonSearch{width:59px;height:20px;display:inline-block;background:url(SearchButton.png) no-repeat}
+#ControlCart .BgButtonSearch:hover{background:url(SearchButtonHover.png) no-repeat}
+#ControlCart .TxtInBox{font:normal 11px Arial}
+#ControlCart .iconInfo{background:url(info.png) no-repeat;width:16px;height:16px;display:inline-block}
+
+#ControlCart .maunoibat{color:blue;font-weight:bold}
+#ControlCart .maunoibat1{color:red;font-weight:bold}
+#ControlCart .lhContent{line-height:18px}

@@ -1,0 +1,3 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="ExportExcel.ascx.cs" Inherits="cms_admin_CommonControls_ExportExcel" %>
+<asp:LinkButton ID="btOK" runat="server" onclick="btOK_Click" ToolTip="Click vào đây để xuất các mục được chọn ra tệp Excel"><img src="cms/admin/cs/pic/Common/Excel.png" border="0"/></asp:LinkButton>
+<%--<asp:LinkButton ID="btOKS" runat="server" onclick="btOKS_Click" CssClass="excelIcons pr5" ToolTip="Click vào đây để xuất tất cả ra tệp Excel">Xuất tất cả ra excel</asp:LinkButton>--%>

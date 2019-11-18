@@ -1,0 +1,56 @@
+﻿#Homei{}
+#Homei .TtlTab{ font: bold 12px Tahoma;color: #F88600;display: block;padding: 8px 0 10px 0}
+#Homei .TxtContain{ font: normal 12px Arial;color: #4d4d4d;line-height: 20px}
+
+#Homei .ColInfoDesc{ float: left;width: 450px}
+#Homei .ColInfoToiUu{ float: left;width: 500px}
+
+#Homei .ColChart{ float: left;width: 480px}
+
+#Homei .spaceModul{border-top: dashed 1px #ccc}
+#Homei .TxtModul{ font: bold 12px Tahoma;color: #444;line-height: 80px;float: left;width: 100px}
+#Homei .ColIco{ float: left;width:135px;height:90px}
+#Homei a.TtlCreate{ font: normal 11px Arial;color: #444;display: block;padding-top: 8px;text-decoration: none}
+#Homei .ColIco:hover a.TtlCreate,
+#Homei .ColIco a.TtlCreate:hover{color:#ff6600}
+
+#Homei .NewCate{ background: url(NewCate.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .NewItem{ background: url(NewItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .NewGroupItem{ background: url(NewGroupItem.png) no-repeat;width: 60px;height: 60px;display: block}
+
+#Homei .ProductCate{ background: url(ProductCate.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ProductItem{ background: url(ProductItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ProductGroupItem{ background: url(ProductGroupItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ProductFilter{ background: url(ProductFilter.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ProductColor{ background: url(ProductColor.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ProductProperty{ background: url(ProductProperty.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ProductFactory{ background: url(ProductFactory.png) no-repeat;width: 60px;height: 60px;display: block}
+
+#Homei .AdvCate{ background: url(AdvCate.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .AdvItem{ background: url(AdvItem.png) no-repeat;width: 60px;height: 60px;display: block}
+
+#Homei .PhotoCate{ background: url(PhotoCate.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .PhotoItem{ background: url(PhotoItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .PhotoGroupItem{ background: url(PhotoGroupItem.png) no-repeat;width: 60px;height: 60px;display: block}
+
+#Homei .FileCate{ background: url(FileCate.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .FileItem{ background: url(FileItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .FileGroupItem{ background: url(FileGroupItem.png) no-repeat;width: 60px;height: 60px;display: block}
+
+#Homei .ServiceCate{ background: url(ServiceCate.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ServiceItem{ background: url(ServiceItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ServiceGroupItem{ background: url(ServiceGroupItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .ShortCutTool{background:#f1f1f1;margin:0 1% 20px 1%}
+
+#Homei .VideoItem{ background: url(VideoItem.png) no-repeat;width: 60px;height: 60px;display: block}
+#Homei .CustomerItem{ background: url(CustomerItem.png) no-repeat;width: 60px;height: 60px;display: block}
+
+#AdmRoad{height:27px;font:normal 11px Tahoma;color:#606060;line-height:27px;padding-right:8px;position:relative;z-index:1;margin:0 1% 0 1%}
+#AdmRoad .arrow{background:url(ArrowRightRoad.png) no-repeat 5px 12px;padding-left:18px}
+#AdmRoad a.TextRoad{display:inline-block;font:normal 11px Tahoma;color:#606060;line-height:27px;text-decoration:none}
+#AdmRoad a.TextRoad:hover{color:#52c313}
+
+#AdmRoad a.config{position:absolute;z-index:1;top:8px;right:0;color:inherit}
+#AdmRoad a.config:hover{color:#ff6600}
+
+#Homei #ListSubControls>div{float:left;width:48%;margin:0 1%}

@@ -1,0 +1,11 @@
+﻿Giới thiệu          | AboutUs           | gioi-thieu.html
+
+Tour                | Tour              | tour.html
+
+Dịch vụ             | Service           | dich-vu.html
+
+Khách sạn           | Hotel             | khach-san.html
+
+Ý kiến khách hàng   | CustomerReviews   | y-kien-khach-hang.html
+
+Liên hệ             | ContactUs         | lien-he.html

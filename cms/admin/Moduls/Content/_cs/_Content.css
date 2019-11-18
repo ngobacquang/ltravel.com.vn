@@ -1,0 +1,35 @@
+﻿/*Cac Icon cua modul news*/
+#ContentModul .iconDanhMuc,#ContentModul .iconDanhSach,#ContentModul .iconDanhMucThemMoi,#ContentModul .iconDanhSachThemMoi
+{width:16px;height:16px;cursor:pointer;display:inline-block}
+#ContentModul .iconDanhMuc{background:url(ManagerCategory.png) no-repeat}
+#ContentModul .iconDanhSach{background:url(ManagerItem.png) no-repeat}
+#ContentModul .iconDanhMucThemMoi{background:url(CreateCategory.png) no-repeat}
+#ContentModul .iconDanhSachThemMoi{background:url(CreateItem.png) no-repeat}
+
+
+/*LoadControls - Khung trang trai-phai*/
+.PositionLeftControl{float:left;width: 208px}
+.PositionRightControl{float:left;width:775px;min-height: 560px}
+/*End LoadControls - Khung trang trai-phai - end*/
+
+/*Left Product - Cac menu quan ly ben trai*/
+#ContentAdmLeftMenu{}
+#ContentAdmLeftMenu .BgTabTongQuan{background:url(BgTabTongQuan.png) no-repeat;width:204px;height:37px;}
+#ContentAdmLeftMenu .BgTabTongQuan a.TextInTabTongQuan{font:bold 12px Tahoma;color:#464646;display:block;padding-left:13px;line-height:29px;text-decoration:none}
+#ContentAdmLeftMenu .BgTabTongQuan a.TextInTabTongQuan:hover{color:#52c313}
+#ContentAdmLeftMenu .DanhMucQuanLy{font:bold 11px Tahoma;color:#4e4e4e;padding-left:13px;padding-top:5px;}
+#ContentAdmLeftMenu .TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px;}
+#ContentAdmLeftMenu a.TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px;}
+#ContentAdmLeftMenu a.TextCateManager:hover{color:#00ad24}
+#ContentAdmLeftMenu .InvisibleSpaceCate{display:none}
+#ContentAdmLeftMenu .PdSpaceCate{height:1px;padding:5px 0 3px 0px;}
+#ContentAdmLeftMenu .SpaceCate{background-color:#d4d4d4;height:1px;width:195px;}
+#ContentAdmLeftMenu .PdIconInfomation{float:left;padding-left:9px;width:20px;padding-top:4px;}
+#ContentAdmLeftMenu .PdSubIconRecycleBin{float:left;padding-left:45px;width:10px;padding-top:5px;}
+#ContentAdmLeftMenu .PdIconSeo{float:left;padding-left:9px;width:20px;padding-top:4px}
+#ContentAdmLeftMenu .PdIconMail{float:left;padding-left:9px;width:20px;padding-top:6px}
+#ContentAdmLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent;}
+#ContentAdmLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+*html #ContentAdmLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent;border:0;}
+*html #ContentAdmLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4;}
+/*Left Product - Cac menu quan ly ben trai - end*/

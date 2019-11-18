@@ -1,0 +1,37 @@
+﻿#ContactUsRecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ContactUsRecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ContactUsRecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ContactUsRecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#ContactUsRecycleCate .split{float:left;width:9px;text-align:center}
+#ContactUsRecycleCate .cot1,#ContactUsRecycleCate .cot2,#ContactUsRecycleCate .cot3,#ContactUsRecycleCate .cot4,#ContactUsRecycleCate .cot5{float:left}
+#ContactUsRecycleCate .cot1{ width: 30px}
+#ContactUsRecycleCate .cot2{width:220px;padding-left:5px}
+#ContactUsRecycleCate .cot4{width:350px}
+#ContactUsRecycleCate .cot5{width:55px}
+#ContactUsRecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#ContactUsRecycleCate input[type=text]{width:40px;text-align:center}
+
+#ContactUsRecycleCate .content{}
+#ContactUsRecycleCate .content .FormatCellItem{background-color: #F2F2F2}
+#ContactUsRecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#ContactUsRecycleCate .content .FormatCellItemOther{background-color: transparent}
+#ContactUsRecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#ContactUsRecycleCate .content .pdCellItem{padding: 10px 0}
+#ContactUsRecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#ContactUsRecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#ContactUsRecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ContactUsRecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ContactUsRecycleCate .content .Tool{ padding-left: 10px;float: right}
+#ContactUsRecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#ContactUsRecycleCate .EnableIcon0,#ContactUsRecycleCate .EnableIcon1{padding-top: 3px}
+
+#ContactUsRecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#ContactUsRecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

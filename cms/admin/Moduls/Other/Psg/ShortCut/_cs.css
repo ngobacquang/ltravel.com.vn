@@ -1,0 +1,21 @@
+﻿/*AdmShortCutCategory*/
+#ShortCut{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:800px;_height:800px}
+#ShortCut .TxtInsertUpdate{background:#d4d4d4;height:28px; font: bold 12px Arial;color: #333;line-height: 28px;padding-left: 20px;display: block}
+#ShortCut .pdControl{padding:0 20px}
+#ShortCut .text{float:left;width:150px}
+#ShortCut .control{float:left;width:230px;position:relative;z-index:1;padding-top:3px}
+#ShortCut .TextSeoLink{font:bold 12px Tahoma;color: #444;padding-bottom: 15px}
+#ShortCut .pdButton{padding-left:150px}
+
+#ShortCut .controlImg{ float: left;width: 580px}
+#ShortCut .khungThuocTinh{border:solid 1px #d4d4d4;padding: 10px 20px}
+
+#ShortCut a.ThietLapAnh{color:Blue;position:absolute;top:10px;right:10px;z-index:2}
+#ShortCut a.ThietLapAnh:hover{color:Green}
+#Toogle_ThietLapAnhDaiDien input[type=text]{width:30px;text-align:center}
+#ShortCut .adm_img_New{max-width:220px;max-height:220px}
+
+#ShortCut .KhungToiUu{ border: solid 1px #d3d3d3;background-color: #e3e3e3}
+#ShortCut .PdKhungToiUu{padding: 15px 0 15px 10px}
+#ShortCut .TextSeoLink{ font: bold 12px Tahoma;padding-bottom: 10px}
+/*AdmShortCutCategory - end*/

@@ -1,0 +1,56 @@
+﻿/*#region Tên các font sử dụng */
+$font-family:'Roboto';//Font chính
+$font-family-2:'UtmSeagull';
+$font-family-3:'UvnVan';
+$font-family-4:'UtmAndrogyne';
+/*#endregion */
+
+/*#region Các cỡ chữ chính và cỡ +- trên dưới */
+$font-size-tru-5:10px;
+$font-size-tru-4:11px;
+$font-size-tru-3:12px;
+$font-size-tru-2:13px;
+$font-size-tru-1:14px;
+$font-size:15px;//Cỡ chữ chính
+$font-size-cong-1:16px;
+$font-size-cong-2:17px;
+$font-size-cong-3:18px;
+$font-size-cong-4:19px;
+$font-size-cong-5:20px;
+$font-size-cong-6:21px;
+$font-size-cong-7:22px;
+$font-size-cong-8:23px;
+$font-size-cong-9:24px;
+$font-size-cong-10:25px;
+$font-size-cong-11:26px;
+$font-size-cong-12:27px;
+$font-size-cong-13:28px;
+$font-size-cong-14:29px;
+$font-size-cong-15:30px;
+/*#endregion */
+
+/*#region Các màu chính*/
+$color:#347F19;//Màu chính
+$color-2:#ED6E05;//Màu chính thứ 2
+$color-3:#105EA8;//Màu chính thứ 3 (thường 1 web sẽ lấy theo màu logo và không nên chứa quá nhiều màu)
+$text-color:#333;
+/*#endregion */
+
+
+/*#region Một số màu mặc định dùng chung cho nhiều web */
+$bg-color-gray:#f2f2f2;
+$bd-color-gray:#d2d2d2;
+
+$color-fade:#666;
+$color-light:#999;
+$color-error:#dc3545;
+$color-error-shadow:rgba(220, 53, 69,0.25);
+
+$color-primary:#007bff;
+$color-secondary:#6c757d;
+$color-success:#28a745;
+$color-danger:#dc3545;
+$color-warning:#ffc107;
+$color-info:#17a2b8;
+$color-white:#fff;
+/*#endregion */

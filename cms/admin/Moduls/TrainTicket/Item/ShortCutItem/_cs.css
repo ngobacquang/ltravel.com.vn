@@ -1,0 +1,30 @@
+﻿/*AdmShortCutItem.ascx*/
+#admscitem{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:550px;_height:550px;padding:0 20px}
+#admscitem .text{float:left;width:130px}
+#admscitem .box{ float: left;width: 580px}
+#admscitem .control{float:left;width:603px;position:relative;z-index:1;padding-top:3px}
+#admscitem .control1{float:left;width:570px;position:relative;z-index:1;padding-top:3px}
+
+#admscitem .KhungToiUu{ border: solid 1px #d3d3d3;background-color: #e3e3e3}
+#admscitem .PdKhungToiUu{padding: 15px 0 15px 10px}
+#admscitem .TextSeoLink{ font: bold 12px Tahoma;padding-bottom: 10px}
+
+#admscitem .pdButton{padding-left:150px}
+#admscitem .motMuc{width:180px;float:left}
+#admscitem .ThuocTinhTrainTicket{border:solid 1px #d8d8d8;width:720px;padding:5px}
+
+#admscitem .khungThuocTinh{border:solid 1px #d4d4d4;padding: 10px 20px}
+#admscitem a.ThietLapAnh{color:Blue;position:absolute;top:10px;right:10px;z-index:2}
+#admscitem a.ThietLapAnh:hover{color:Green}
+#Toogle_ThietLapAnhDaiDien input[type=text]{width:30px;text-align:center}
+#admscitem .imgItem{ width: 200px;border: 0}
+
+#admscitem .ThuocTinhLocTrainTicket{border:solid 1px #d8d8d8;border-bottom:0;padding:5px}
+#admscitem .pr10{padding-right:10px}
+#admscitem .tenThuocTinhCha{font:bold 12px Tahoma;width:180px;float:left}
+#admscitem .motMuc{width:180px;float:left}
+#admscitem .motThuocTinh{border-bottom:solid 1px #d8d8d8;padding:5px}
+#admscitem .ThuocTinhTrainTicket{border:solid 1px #d8d8d8;padding:5px}
+#admscitem #DanhSachThuocTinhLocTrainTicket table tr{float:left;width:175px}
+
+/*AdmShortCutItem.ascx - end*/

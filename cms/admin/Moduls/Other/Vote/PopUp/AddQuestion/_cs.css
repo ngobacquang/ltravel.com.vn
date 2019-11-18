@@ -1,0 +1,29 @@
+﻿body{ margin: 0;padding: 3px}
+#AddQuestion{font: normal 12px Tahoma}
+#AddQuestion a{text-decoration: none}
+#AddQuestion .TtlQuestion{ font: normal 13px Tahoma;color: #444;display: block;padding: 10px 0}
+
+#AddQuestion .bdList{border: solid 1px #cdcdcd}
+#AddQuestion .TtlList{ font: bold 12px Tahoma;line-height: 28px;border-bottom: solid 1px #cdcdcd}
+
+#AddQuestion .bTab{ background-color: #cfcfcf;height: 28px;line-height: 28px;font-weight: normal}
+
+#AddQuestion .Colcb{ float: left;width: 50px}
+#AddQuestion .Col1{ float: left;width: 250px}
+#AddQuestion .Col2{ float: left;width: 80px}
+#AddQuestion .Col3{ float: left;width: 120px}
+#AddQuestion .Col4{ float: left;width: 120px}
+#AddQuestion .Col5{ float: right}
+
+#AddQuestion .cb{ clear: both;height:0}
+#AddQuestion .cb10{ clear: both;height:10px}
+#AddQuestion .sp{ float: left;margin: 0 5px}
+
+#AddQuestion .tool{ height: 30px;line-height: 30px}
+#AddQuestion .tool a{ font: normal 12px Tahoma;color: #444;text-decoration: none;}
+
+#AddQuestion .pdForm{padding: 15px 0}
+#AddQuestion .pdbtn{padding-left: 60px}
+
+#AddQuestion .Item{ height: 28px;line-height: 28px;border-bottom: dotted 1px #cdcdcd}
+#AddQuestion .ptico{padding-top: 3px}

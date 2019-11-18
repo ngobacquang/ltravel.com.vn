@@ -1,0 +1,37 @@
+﻿#ProductRecycleProperty{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ProductRecycleProperty .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ProductRecycleProperty .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ProductRecycleProperty .BgTabTitle a{font-weight:bold;line-height:26px}
+#ProductRecycleProperty .split{float:left;width:9px;text-align:center}
+#ProductRecycleProperty .cot1,#ProductRecycleProperty .cot2,#ProductRecycleProperty .cot3,#ProductRecycleProperty .cot4,#ProductRecycleProperty .cot5{float:left}
+#ProductRecycleProperty .cot1{ width: 30px}
+#ProductRecycleProperty .cot2{width:220px;padding-left:5px}
+#ProductRecycleProperty .cot4{width:350px}
+#ProductRecycleProperty .cot5{width:55px}
+#ProductRecycleProperty .cot7{float: right;width: 50px;padding-right: 10px}
+#ProductRecycleProperty input[type=text]{width:40px;text-align:center}
+
+#ProductRecycleProperty .content{}
+#ProductRecycleProperty .content .FormatCellItem{background-color: #F2F2F2}
+#ProductRecycleProperty .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#ProductRecycleProperty .content .FormatCellItemOther{background-color: transparent}
+#ProductRecycleProperty .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#ProductRecycleProperty .content .pdCellItem{padding: 10px 0}
+#ProductRecycleProperty .content .pdCellItemOther{padding: 10px 0}
+
+#ProductRecycleProperty .content .splitc{float:left;width:9px;text-align:center}
+#ProductRecycleProperty .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ProductRecycleProperty .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ProductRecycleProperty .content .Tool{ padding-left: 10px;float: right}
+#ProductRecycleProperty .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#ProductRecycleProperty .EnableIcon0,#ProductRecycleProperty .EnableIcon1{padding-top: 3px}
+
+#ProductRecycleProperty .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#ProductRecycleProperty .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

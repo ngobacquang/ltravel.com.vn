@@ -1,0 +1,34 @@
+﻿#ControlProperty{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ControlProperty .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ControlProperty .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ControlProperty .BgTabTitle a{font-weight:bold;line-height:26px}
+#ControlProperty .split{float:left;width:9px;text-align:center}
+#ControlProperty .cot1,#ControlProperty .cot2,#ControlProperty .cot3,#ControlProperty .cot4,#ControlProperty .cot5,#ControlProperty .cot6,#ControlProperty .cot7{float:left}
+#ControlProperty .cot1{width:30px;text-align:center}
+#ControlProperty .cot2{width:220px;padding-left:10px;position:relative;z-index:1}
+#ControlProperty .cot3{width:100px;padding-left:5px}
+#ControlProperty .cot4{width:100px}
+#ControlProperty .cot5{width:55px}
+#ControlProperty .cot6{width:70px}
+#ControlProperty .cot7{width: 120px;text-align: right;float:right;padding-right:10px}
+#ControlProperty input[type=text]{width:40px;text-align:center}
+
+#ControlProperty .content{}
+#ControlProperty .content .FormatCellItem{background-color: #F2F2F2}
+#ControlProperty .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#ControlProperty .content .FormatCellItemOther{background-color: transparent}
+#ControlProperty .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#ControlProperty .content .pdCellItem{padding: 10px 0}
+#ControlProperty .content .pdCellItemOther{padding: 10px 0}
+
+#ControlProperty .content .splitc{float:left;width:9px;text-align:center}
+#ControlProperty .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ControlProperty .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ControlProperty .content .Tool{ padding-left: 10px;float: right}
+#ControlProperty .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#ControlProperty .EnableIcon0,#ControlProperty .EnableIcon1{padding-top: 3px}
+
+#ControlProperty .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}
+#ControlProperty .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}

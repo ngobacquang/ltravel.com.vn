@@ -1,0 +1,36 @@
+﻿/*AdmSubControlsCate*/
+#admscpp{width:775px;border:solid 1px #d8d8d8;border-top:solid 3px #a0a0a0}
+#admscp .header{background:#ccc;height:27px}
+#admscp .tab{float:left;width:250px;height:25px;display:block;padding-left:15px;font:bold 12px/25px Tahoma;color:#343434}
+#admscp .TabTtl{font:bold 11px Tahoma;color:#343434;display:block;height:25px;line-height:25px;background-color:#ddd;padding-right:5px;padding-left:10px}
+#admscp .TabTtl .ChkboxAll{float:left;width:20px;padding-top:3px}
+#admscp .TabTtl .TabTitle{float:left;width:350px}
+#admscp .TabTtl .TabTotalItem{float:left;width:100px;text-align:center}
+#admscp .TabTtl .TabOrder{float:left;width:50px}
+#admscp .TabTtl .TabTool{float:right}
+
+#admscp .icon{float:right;width:20px;padding-top:6px}
+#admscp .content{height:300px;overflow:auto;padding-left:10px;padding-right:5px}
+#admscp .content .ContentCheckbox{float:left;width:22px}
+#admscp .content .ContentTtl{float:left;width:352px}
+#admscp .content .ContentTotalItem{float:left;width:104px;text-align:center}
+#admscp .content .ContentOrder{float:left;width:52px}
+#admscp .content .ContentTool{float:right}
+#admscp .content .SpaceItem{background-color:#a0a0a0;height:1px}
+#admscp .content .PdSpaceItem{padding:5px 0}
+
+#admscp .content .SpaceSubItem{background-color:#e8e8e8;height:1px}
+#admscp .content .PdSpaceSubItem{padding:3px 0}
+
+#admscp .CateCurrent{display:none}
+
+#admscp .cot1{float:left;width:189px}
+#admscp .cot2{float:left;width:20px;padding-top:3px}
+#admscp a.title{font-weight:bold;color:inherit;display:block;padding-left:17px}
+#admscp a.TitleModulLv2{padding-top:3px}
+#admscp a.Tool{color:inherit;display:block;text-decoration:none}
+#admscp a.Tool:hover,
+#admscp a.title:hover{color:#00ad24}
+#admscp .split{float:left;padding:0 11px}
+#admscp .EnableIcon0,#admscp .EnableIcon1{display:inline-block;padding-right:8px}
+/*AdmSubControlsCate - end*/

@@ -1,0 +1,37 @@
+﻿#DealRecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#DealRecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#DealRecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#DealRecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#DealRecycleCate .split{float:left;width:9px;text-align:center}
+#DealRecycleCate .cot1,#DealRecycleCate .cot2,#DealRecycleCate .cot3,#DealRecycleCate .cot4,#DealRecycleCate .cot5{float:left}
+#DealRecycleCate .cot1{ width: 30px}
+#DealRecycleCate .cot2{width:220px;padding-left:5px}
+#DealRecycleCate .cot4{width:350px}
+#DealRecycleCate .cot5{width:55px}
+#DealRecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#DealRecycleCate input[type=text]{width:40px;text-align:center}
+
+#DealRecycleCate .content{}
+#DealRecycleCate .content .FormatCellItem{background-color: #F2F2F2}
+#DealRecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#DealRecycleCate .content .FormatCellItemOther{background-color: transparent}
+#DealRecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#DealRecycleCate .content .pdCellItem{padding: 10px 0}
+#DealRecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#DealRecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#DealRecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#DealRecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#DealRecycleCate .content .Tool{ padding-left: 10px;float: right}
+#DealRecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#DealRecycleCate .EnableIcon0,#DealRecycleCate .EnableIcon1{padding-top: 3px}
+
+#DealRecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#DealRecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

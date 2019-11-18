@@ -1,0 +1,39 @@
+﻿/*AdmControlsItems.ascx*/
+#admitem{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#admitem .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px;position:relative;z-index:1}
+#admitem .BgTabTool .right{position:absolute;z-index:2;right:5px;top:5px}
+
+#admitem .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#admitem .BgTabTitle a{font-weight:bold;line-height:26px}
+#admitem .SizeImage{max-width:250px;max-height:200px;border:0}
+#admitem .split{float:left;width:9px;text-align:center}
+#admitem .cot1,#admitem .cot2,#admitem .cot3,#admitem .cot4,#admitem .cot5,#admitem .cot6
+{float:left}
+#admitem .cot1{width:35px}
+#admitem .cot2{width:320px;padding-left:5px}
+#admitem .cot3{width:110px}
+#admitem .cot4{width:60px}
+#admitem .cot5{width:70px}
+#admitem .tool a{padding:0 3px}
+#admitem .bgItem{padding:6px 0}
+#admitem .bgItem:hover{background:#edf9eb}
+#admitem .vien{height:1px;background:#d4d4d4}
+#admitem .BgButtonSearch{width:59px;height:20px;display:inline-block;background:url(SearchButton.png) no-repeat}
+#admitem .BgButtonSearch:hover{background:url(SearchButtonHover.png) no-repeat}
+#admitem .TxtInBox{font:normal 11px Arial}
+#admitem .TextLinkItem{ text-align: left;padding: 5px 0 5px 10px}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+
+
+#SubItemSearch{position:fixed;z-index:2;bottom:0;left:0;width:100%}
+#SubItemSearch .frame{width:996px;margin:auto;background:#f3f2ea;border-top:solid 2px #4aa02c;box-shadow:0 0 0 1px #fff, 0 0 6px 3px #afafaf}
+#SubItemSearch .frame2{width:850px;margin:auto;padding:12px 0}
+#SubItemSearch a.lbtSearch{display:inline-block;width:95px;height:20px;background:url(timkiem.png) no-repeat}
+#SubItemSearch input[type=text],
+#SubItemSearch select{border:solid 1px #bebba7;font:normal 12px Tahoma;color:#333;width:265px;padding:2px 5px}
+#SubItemSearch select{padding:1px;width:276px}
+#SubItemSearch .btsearchp{position:relative;z-index:1;top:-3px}
+/*AdmControlsItems.ascx*/

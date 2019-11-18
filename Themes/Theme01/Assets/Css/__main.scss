@@ -1,0 +1,73 @@
+﻿@import "variables.scss";
+@import "validate.scss";
+
+@import "bootstrap-4.2.1/scss/bootstrap.scss";
+@import "bootstrap-grid-extend.scss";
+@import "bootstrap-edit.scss";
+@import "font-awesome-4.7.0/scss/font-awesome.scss";
+@import "../Js/fancybox-master/dist/jquery.fancybox-m.scss";
+@import "../Js/slick-1.8.1/slick/slick.scss";
+@import "slick.scss";
+
+@import "font-face.scss";
+@import "image.scss";
+
+@import "_header.scss";
+@import "_aboutus.scss";
+@import "_news.scss";
+@import "_product.scss";
+@import "_course.scss";
+
+
+
+html,body{overflow-x:hidden}
+body{font-family:$font-family;font-size:$font-size;color:$text-color}
+a:hover{text-decoration:none}
+
+/*#region Khối bài viết mẫu dạng ngang (ảnh 1 bên, nội dung 1 bên) */
+.item-row{display:flex;flex-wrap:wrap;margin-left:-15px;margin-right:-15px;
+          .item-img{width:33.33%;padding-left:15px;padding-right:15px}
+          .item-body{flex-basis:0;flex-grow:1;max-width:100%;padding-left:15px;padding-right:15px}
+
+          &.no-gutters{margin-left:0;margin-right:0;
+                      .item-img,
+                      .item-body{padding-left:0;padding-right:0}
+          }
+}
+/*#endregion */
+
+/*#region Khối các tab */
+.tabs-content .tab-content{display:none}
+.tabs-content .tab-content.active{display:block}
+/*#endregion */
+
+
+
+h2.h2-title{font-weight:bold;color:$color-3;font-size:38px;
+            a{color:$color-3;&:hover{color:$color-2}}
+}
+
+/* My style */
+@import "nbStyle_for_all.scss";
+@import "nbStyle.scss";
+
+
+/*#region thanh điều hướng*/
+.SplitPages { display: flex; justify-content: center; flex-wrap: wrap; padding: 25px 0 20px 0; /*border-top: 1px solid #e7e7e7;*/position: relative; z-index: 1;
+	a { background-color: #fff; height: 35px; color: $color-light; display: inline-block; line-height: 35px; text-align: center; text-decoration: none; border: 1px solid #ddd; padding: 0 15px; margin: 2px; font-size: 14px; transition: none;
+		&:hover { background: $color; color: #fff; border-color: $color; }
+		&.hientai { background: $color; color: #fff; border-color: $color; }
+		&.truoc, &.sau { width: 40px; padding: 0; position: relative; font-size: 0px;
+			&:before { position: absolute; z-index: 1; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: FontAwesome; font-size: 13px; line-height: 1; }
+		}
+		&.truoc:before { content: '\f053'; }
+		&.sau:before { content: '\f054'; }
+		&.dau { padding-left: 27px; position: relative;
+			&:before { content: '\f053'; position: absolute; z-index: 1; font-family: FontAwesome; left: 15px; top: 10px; line-height: 1; font-size: 10px; }
+		}
+		&.cuoi { padding-right: 27px; position: relative;
+			&:after { content: '\f054'; position: absolute; z-index: 1; font-family: FontAwesome; right: 15px; top: 10px; line-height: 1; font-size: 10px; }
+		}
+	}
+}
+/*#endregion thanh điều hướng*/

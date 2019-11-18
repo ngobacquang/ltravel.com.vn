@@ -1,0 +1,34 @@
+﻿#WebsiteControlCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#WebsiteControlCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#WebsiteControlCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#WebsiteControlCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#WebsiteControlCate .split{float:left;width:9px;text-align:center}
+#WebsiteControlCate .cot1,#WebsiteControlCate .cot2,#WebsiteControlCate .cot3,#WebsiteControlCate .cot4,#WebsiteControlCate .cot5,#WebsiteControlCate .cot6,#WebsiteControlCate .cot7{float:left}
+#WebsiteControlCate .cot1{width:30px;text-align:center}
+#WebsiteControlCate .cot2{width:220px;padding-left:5px}
+#WebsiteControlCate .cot3{width:100px;padding-left:5px}
+#WebsiteControlCate .cot4{width:100px}
+#WebsiteControlCate .cot5{width:55px}
+#WebsiteControlCate .cot6{width:70px}
+#WebsiteControlCate .cot7{width: 120px;text-align: right}
+#WebsiteControlCate input[type=text]{width:40px;text-align:center}
+
+#WebsiteControlCate .content{}
+#WebsiteControlCate .content .FormatCellItem{background-color: #F2F2F2}
+#WebsiteControlCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#WebsiteControlCate .content .FormatCellItemOther{background-color: transparent}
+#WebsiteControlCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#WebsiteControlCate .content .pdCellItem{padding: 10px 0}
+#WebsiteControlCate .content .pdCellItemOther{padding: 10px 0}
+
+#WebsiteControlCate .content .splitc{float:left;width:9px;text-align:center}
+#WebsiteControlCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#WebsiteControlCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#WebsiteControlCate .content .Tool{ padding-left: 10px;float: right}
+#WebsiteControlCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#WebsiteControlCate .EnableIcon0,#WebsiteControlCate .EnableIcon1{padding-top: 3px}
+
+#WebsiteControlCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#WebsiteControlCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}

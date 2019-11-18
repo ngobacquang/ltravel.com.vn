@@ -1,0 +1,23 @@
+﻿#ControlComment{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ControlComment .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px;position:relative;z-index:1}
+#ControlComment .BgTabTool .right{position:absolute;z-index:2;right:5px;top:5px}
+
+#ControlComment .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ControlComment .BgTabTitle a{font-weight:bold;line-height:26px}
+#ControlComment .SizeImage{width:90px;border:0;padding-right:5px}
+#ControlComment .split{float:left;width:9px;text-align:center}
+#ControlComment .cot1,#ControlComment .cot2,#ControlComment .cot3,#ControlComment .cot4,#ControlComment .cot5,#ControlComment .cot6
+{float:left}
+#ControlComment .cot1{width:35px}
+#ControlComment .cot2{width:180px;padding-left:5px}
+#ControlComment .cot3{width:320px;text-align:justify}
+#ControlComment .cot4{width:60px}
+#ControlComment .cot5{width:70px}
+#ControlComment .tool a{padding:0 3px}
+#ControlComment .bgItem{padding:6px 0}
+#ControlComment .bgItem:hover{background:#edf9eb}
+#ControlComment .vien{height:1px;background:#d4d4d4}
+#ControlComment .BgButtonSearch{width:59px;height:20px;display:inline-block;background:url(SearchButton.png) no-repeat}
+#ControlComment .BgButtonSearch:hover{background:url(SearchButtonHover.png) no-repeat}
+#ControlComment .TxtInBox{font:normal 11px Arial}
+#ControlComment .iconInfo{background:url(info.png) no-repeat;width:16px;height:16px;display:inline-block}

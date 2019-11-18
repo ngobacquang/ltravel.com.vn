@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="AdmRoad.ascx.cs" Inherits="cms_admin_CommonControls_AdmRoad" %>
+<div id="AdmRoad"><asp:Literal ID="LtRoad" runat="server"></asp:Literal></div>

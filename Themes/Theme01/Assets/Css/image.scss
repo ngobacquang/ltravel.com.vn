@@ -1,0 +1,9 @@
+﻿/*#region phần khung ảnh tự căn vừa khung của Tất Thành - khungAnhCrop */
+.imgc,
+.imgc0{display:block;position:relative;z-index:1;overflow:hidden;
+        &:before{display:block;content:"";padding-bottom:100%}
+
+        img{position:absolute;z-index:1;top:0;left:0;width:100%;height:100%;object-fit:cover}
+}
+.imgc0{img{object-fit:scale-down}}
+/*#endregion */

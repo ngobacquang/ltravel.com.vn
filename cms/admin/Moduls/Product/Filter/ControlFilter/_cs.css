@@ -1,0 +1,34 @@
+﻿#ProductControlFilter{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ProductControlFilter .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ProductControlFilter .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ProductControlFilter .BgTabTitle a{font-weight:bold;line-height:26px}
+#ProductControlFilter .split{float:left;width:9px;text-align:center}
+#ProductControlFilter .cot1,#ProductControlFilter .cot2,#ProductControlFilter .cot3,#ProductControlFilter .cot4,#ProductControlFilter .cot5,#ProductControlFilter .cot6,#ProductControlFilter .cot7{float:left}
+#ProductControlFilter .cot1{width:30px;text-align:center}
+#ProductControlFilter .cot2{width:180px;padding-left:10px;position:relative;z-index:1}
+#ProductControlFilter .cot3{width:120px;padding-left:5px}
+#ProductControlFilter .cot4{width:100px}
+#ProductControlFilter .cot5{width:55px}
+#ProductControlFilter .cot6{width:70px}
+#ProductControlFilter .cot7{width: 120px;text-align: right;float:right;padding-right:10px}
+#ProductControlFilter input[type=text]{width:40px;text-align:center}
+
+#ProductControlFilter .content{}
+#ProductControlFilter .content .FormatCellItem{background-color: #F2F2F2}
+#ProductControlFilter .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#ProductControlFilter .content .FormatCellItemOther{background-color: transparent}
+#ProductControlFilter .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#ProductControlFilter .content .pdCellItem{padding: 10px 0}
+#ProductControlFilter .content .pdCellItemOther{padding: 10px 0}
+
+#ProductControlFilter .content .splitc{float:left;width:9px;text-align:center}
+#ProductControlFilter .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ProductControlFilter .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ProductControlFilter .content .Tool{ padding-left: 10px;float: right}
+#ProductControlFilter .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#ProductControlFilter .EnableIcon0,#ProductControlFilter .EnableIcon1{padding-top: 3px}
+
+#ProductControlFilter .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}
+#ProductControlFilter .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}

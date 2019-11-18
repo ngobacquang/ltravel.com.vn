@@ -1,0 +1,8 @@
+﻿.vld-error-wrap{
+    color:$color-error;
+    >label:first-child{font-weight:bold}
+    .form-control{
+        border-color:$color-error;                        
+        &:focus{border-color:$color-error;box-shadow:0 0 0 0.2rem $color-error-shadow}
+    }
+}

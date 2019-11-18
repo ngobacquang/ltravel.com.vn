@@ -1,0 +1,75 @@
+﻿#AddPictureToCate a.lbtInsert{font:bold 12px Tahoma;color:#0046c4;text-decoration:none}
+#AddPictureToCate a.lbtInsert:hover{color:#ff0000}
+#AddPictureToCate .hotelImage{width:150px;border:0}
+
+#AddPictureToCate .cb{clear:both}
+#AddPictureToCate .fwb{font-weight:bold}
+#AddPictureToCate .cRed{color:red}
+#AddPictureToCate .ffTahoma{font-family:Tahoma}
+#AddPictureToCate .fs12{font-size:12px}
+#AddPictureToCate .ma{margin:auto}
+#AddPictureToCate .tac{text-align:center}
+#AddPictureToCate .w900{width:900px}
+#AddPictureToCate .w200{width:200px}
+#AddPictureToCate .w120{width:120px}
+#AddPictureToCate .w100{width:100px}
+#AddPictureToCate .w50{width:50px}
+#AddPictureToCate .h5{height:5px}
+#AddPictureToCate .h20{height:20px}
+#AddPictureToCate .pb10{padding-bottom:10px}
+#AddPictureToCate .pb15{padding-bottom:15px}
+#AddPictureToCate .pt10{padding-top:10px}
+#AddPictureToCate .pb5{padding-bottom:5px}
+#AddPictureToCate .pt5{padding-top:5px}
+#AddPictureToCate .pl5{padding-left:5px}
+#AddPictureToCate .pr5{padding-right:5px}
+#AddPictureToCate .fl{float:left}
+#AddPictureToCate #ListColor tr{float:left;width:220px}
+#AddPictureToCate #ListColor1 tr{float:left;width:220px}
+#AddPictureToCate .bdas{border:solid 1px #d8d8d8}
+#AddPictureToCate .bdts{border-top:solid 1px #d8d8d8}
+#AddPictureToCate .bdrs{border-right:solid 1px #d8d8d8}
+#AddPictureToCate .bdbs{border-bottom:solid 1px #d8d8d8}
+#AddPictureToCate .bdls{border-left:solid 1px #d8d8d8}
+#AddPictureToCate .bcccc{background:#ccc}
+
+#AddPictureToCate .EnableIcon0 {
+    background: url(uncheck.gif);
+    cursor: pointer;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+}
+#AddPictureToCate .EnableIcon1 {
+    background: url(check.gif);
+    cursor: pointer;
+    display: inline-block;
+    height: 10px;
+    width: 12px;
+}
+#AddPictureToCate .iconEdit{background:url(Edit.png) no-repeat;width:16px;height:16px;display:inline-block}
+#AddPictureToCate .iconDelete{background:url(Delete.png) no-repeat;width:16px;height:16px;display:inline-block}
+#AddPictureToCate .khungThuocTinh{border:solid 1px #d4d4d4;padding: 10px 20px}
+
+#AddPictureToCate a.ThietLapAnh{color:Blue;position:absolute;top:10px;right:10px;z-index:2}
+#AddPictureToCate a.ThietLapAnh:hover{color:Green}
+#Toogle_ThietLapAnhDaiDien input[type=text]{width:30px;text-align:center}
+#AddPictureToCate .cotanh{float:left;width:600px}
+
+
+#AddPictureToCate .khungupload{background:#fff;border:solid 1px #d2dce5;border-radius:5px;position:relative;padding:25px 70px;min-height:140px}
+#AddPictureToCate .tengroupbox{font:bold 12px Arial;color:#545454;background:url(bgw.jpg) repeat-x bottom;position:absolute;top:-8px;left:50px}
+#AddPictureToCate .textbox{border:solid 1px #c8c8c8;padding:3px 5px;width:565px;font:normal 12px Arial;color:#909090}
+#AddPictureToCate .progressBarBackGround{height:30px;background:red}
+#AddPictureToCate .progressBarInProgress,
+#AddPictureToCate .progressBarComplete{height:6px;background:url(loadingmediafireCore.jpg) repeat-x;border-radius:3px}
+#AddPictureToCate .progressName{padding-bottom:5px}
+#AddPictureToCate .progressBarStatus{padding-bottom:5px}
+#AddPictureToCate #buttonCancelUpload{display:none}
+#AddPictureToCate #ConvertResultProgressBar{height:30px;display:inline-block;background:url(loadingmediafireCore.jpg) repeat-x;border-radius:5px}
+#AddPictureToCate #nutHoanThanh{display:none}
+#AddPictureToCate a.btupload{width:100px;height:27px;background:#e9679a;font:bold 12px/27px Arial;color:#fff;text-align:center;display:inline-block;cursor:pointer}
+#AddPictureToCate a.btupload:hover{background:#d34e82}
+#AddPictureToCate #divComplete{display:none;padding-top:10px}
+#AddPictureToCate #divComplete a{font:bold 12px Tahoma;color:#0000ee}
+#AddPictureToCate #divComplete a:hover{color:#d95b8b}

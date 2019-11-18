@@ -1,0 +1,77 @@
+﻿#AddNewsToItems a.lbtInsert{font:bold 12px Tahoma;color:#0046c4;text-decoration:none}
+#AddNewsToItems a.lbtInsert:hover{color:#ff0000}
+#AddNewsToItems .hotelImage{width:150px;border:0}
+
+#AddNewsToItems .cb{clear:both}
+#AddNewsToItems .fwb{font-weight:bold}
+#AddNewsToItems .cRed{color:red}
+#AddNewsToItems .ffTahoma{font-family:Tahoma}
+#AddNewsToItems .fs12{font-size:12px}
+#AddNewsToItems .ma{margin:auto}
+#AddNewsToItems .tac{text-align:center}
+#AddNewsToItems .w900{width:900px}
+#AddNewsToItems .w300{width:300px}
+#AddNewsToItems .w200{width:200px}
+#AddNewsToItems .w120{width:120px}
+#AddNewsToItems .w100{width:100px}
+#AddNewsToItems .w50{width:50px}
+#AddNewsToItems .h5{height:5px}
+#AddNewsToItems .h20{height:20px}
+#AddNewsToItems .pb10{padding-bottom:10px}
+#AddNewsToItems .pb15{padding-bottom:15px}
+#AddNewsToItems .pt10{padding-top:10px}
+#AddNewsToItems .pb5{padding-bottom:5px}
+#AddNewsToItems .pt5{padding-top:5px}
+#AddNewsToItems .pl5{padding-left:5px}
+#AddNewsToItems .pr5{padding-right:5px}
+#AddNewsToItems .fl{float:left}
+#AddNewsToItems #ListColor tr{float:left;width:220px}
+#AddNewsToItems #ListColor1 tr{float:left;width:220px}
+#AddNewsToItems .bdas{border:solid 1px #d8d8d8}
+#AddNewsToItems .bdts{border-top:solid 1px #d8d8d8}
+#AddNewsToItems .bdrs{border-right:solid 1px #d8d8d8}
+#AddNewsToItems .bdbs{border-bottom:solid 1px #d8d8d8}
+#AddNewsToItems .bdls{border-left:solid 1px #d8d8d8}
+#AddNewsToItems .bcccc{background:#ccc}
+#AddNewsToItems .bdas img{max-width:90px}
+
+#AddNewsToItems .EnableIcon0 {
+    background: url(uncheck.gif);
+    cursor: pointer;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+}
+#AddNewsToItems .EnableIcon1 {
+    background: url(check.gif);
+    cursor: pointer;
+    display: inline-block;
+    height: 10px;
+    width: 12px;
+}
+#AddNewsToItems .iconEdit{background:url(Edit.png) no-repeat;width:16px;height:16px;display:inline-block}
+#AddNewsToItems .iconDelete{background:url(Delete.png) no-repeat;width:16px;height:16px;display:inline-block}
+#AddNewsToItems .khungThuocTinh{border:solid 1px #d4d4d4;padding: 10px 20px}
+
+#AddNewsToItems a.ThietLapAnh{color:Blue;position:absolute;top:10px;right:10px;z-index:2}
+#AddNewsToItems a.ThietLapAnh:hover{color:Green}
+#Toogle_ThietLapAnhDaiDien input[type=text]{width:30px;text-align:center}
+#AddNewsToItems .cotanh{float:left;width:600px}
+
+
+#AddNewsToItems .khungupload{background:#fff;border:solid 1px #d2dce5;border-radius:5px;position:relative;padding:25px 70px;min-height:140px}
+#AddNewsToItems .tengroupbox{font:bold 12px Arial;color:#545454;background:url(bgw.jpg) repeat-x bottom;position:absolute;top:-8px;left:50px}
+#AddNewsToItems .textbox{border:solid 1px #c8c8c8;padding:3px 5px;width:565px;font:normal 12px Arial;color:#909090}
+#AddNewsToItems .progressBarBackGround{height:30px;background:red}
+#AddNewsToItems .progressBarInProgress,
+#AddNewsToItems .progressBarComplete{height:6px;background:url(loadingmediafireCore.jpg) repeat-x;border-radius:3px}
+#AddNewsToItems .progressName{padding-bottom:5px}
+#AddNewsToItems .progressBarStatus{padding-bottom:5px}
+#AddNewsToItems #buttonCancelUpload{display:none}
+#AddNewsToItems #ConvertResultProgressBar{height:30px;display:inline-block;background:url(loadingmediafireCore.jpg) repeat-x;border-radius:5px}
+#AddNewsToItems #nutHoanThanh{display:none}
+#AddNewsToItems a.btupload{width:100px;height:27px;background:#e9679a;font:bold 12px/27px Arial;color:#fff;text-align:center;display:inline-block;cursor:pointer}
+#AddNewsToItems a.btupload:hover{background:#d34e82}
+#AddNewsToItems #divComplete{display:none;padding-top:10px}
+#AddNewsToItems #divComplete a{font:bold 12px Tahoma;color:#0000ee}
+#AddNewsToItems #divComplete a:hover{color:#d95b8b}

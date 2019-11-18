@@ -1,0 +1,37 @@
+﻿#VideoRecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#VideoRecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#VideoRecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#VideoRecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#VideoRecycleCate .split{float:left;width:9px;text-align:center}
+#VideoRecycleCate .cot1,#VideoRecycleCate .cot2,#VideoRecycleCate .cot3,#VideoRecycleCate .cot4,#VideoRecycleCate .cot5{float:left}
+#VideoRecycleCate .cot1{ width: 30px}
+#VideoRecycleCate .cot2{width:220px;padding-left:5px}
+#VideoRecycleCate .cot4{width:350px}
+#VideoRecycleCate .cot5{width:55px}
+#VideoRecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#VideoRecycleCate input[type=text]{width:40px;text-align:center}
+
+#VideoRecycleCate .content{}
+#VideoRecycleCate .content .FormatCellItem{background-color: #F2F2F2}
+#VideoRecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#VideoRecycleCate .content .FormatCellItemOther{background-color: transparent}
+#VideoRecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#VideoRecycleCate .content .pdCellItem{padding: 10px 0}
+#VideoRecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#VideoRecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#VideoRecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#VideoRecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#VideoRecycleCate .content .Tool{ padding-left: 10px;float: right}
+#VideoRecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#VideoRecycleCate .EnableIcon0,#VideoRecycleCate .EnableIcon1{padding-top: 3px}
+
+#VideoRecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#VideoRecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

@@ -1,0 +1,10 @@
+﻿/*PopupAddItem*/
+#PopupAddItem{ font: normal 12px Tahoma}
+#PopupAddItem .TitleItem{font:bold 12px Tahoma;color:#444;display:block;padding:5px 0 8px 0}
+#PopupAddItem .ColDropdownList{float:right}
+#PopupAddItem .TitleListBox{font-weight:bold;padding-bottom:8px}
+#PopupAddItem .pdButtonGet{padding-top:80px;padding-bottom:25px}
+#PopupAddItem .MesText{color:Red;padding-bottom:5px}
+#PopupAddItem .NoteText{color:Red;font-weight:bold}
+#PopupAddItem .cb10{ clear: both;height:10px}
+/*PopupAddItem - end*/

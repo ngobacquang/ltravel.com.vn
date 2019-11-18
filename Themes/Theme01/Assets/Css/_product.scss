@@ -1,0 +1,54 @@
+﻿.product-1 { margin-bottom: 60px; margin-top: 60px;
+	h2.h2-title { margin-bottom: 12px }
+	.list {
+		&-text { max-width: 840px; margin: 0 auto 26px; font-size: $font-size-cong-1; line-height: 22px }
+		&-link { text-transform: uppercase; color: #fff; line-height: 22px; padding: 9px 50px; border-radius: 3px; background-color: $color-3; display: inline-block; margin-top: -10px;
+			&:hover { background-color: $color-2 }
+		}
+	}
+	.item { box-shadow: 0 0 10px rgba(0,0,0,.2); border-radius: 8px; border-bottom: 4px solid $color-2; margin-bottom: 30px;
+		&-body { padding: 0 15px 6px }
+		&-img { padding: 30px }
+		&-title { font-weight: bold; font-size: $font-size-cong-3; color: $color-3; line-height: 24px; display: block; margin-bottom: 14px;
+			&:hover { color: $color-2 }
+		}
+		&-text { font-size: $font-size-cong-1; line-height: 22px; margin-bottom: 2px } 
+		&-price { font-size: $font-size-cong-1; line-height: 29px; display: flex; justify-content: space-between; margin-bottom: 22px; flex-wrap: wrap;
+			& > .text { font-weight: bold; margin-right: 5px }
+			& > .price { font-weight: bold; color: $color-2; flex: 1 }
+			& > .price-line-through { color: $color-light; text-decoration: line-through }
+		}
+		&-link { font-size: $font-size-tru-1; color: $color-3; line-height: 22px; padding-right: 25px; position: relative;
+			&:after { content: '/'; position: absolute; z-index: 1; top: 2px; right: 8px; color: $color-light; line-height: 1 }
+			&:hover { color: $color-2 }
+			&:nth-child(2) { padding-right: 0;
+				&:after { display: none }
+			}
+			&:last-child { display: block; font-weight: bold; color: $color-2; line-height: 34px; margin-bottom: 2px;
+				&:after { display: none }
+			}
+		}
+	}
+}
+
+.product-2 { 
+	.list {
+		&-body { padding-bottom: 45px }
+		&-text { max-width: 840px; margin: 0 auto 40px; font-size: $font-size-cong-1; line-height: 22px }
+	}
+	.imgc:before { padding-bottom: 66.6666666% }
+	.slick-list { margin: 0 -15px }
+	.slick-dots { bottom: 0 }
+	.item { box-shadow: 0 0 10px rgba(0,0,0,.2); border-radius: 5px; margin: 0 15px 5px;
+		&-body { padding: 18px 24px; background-color: #fff; text-align: center; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px }
+		&-title { color: $color-3; font-size: $font-size-cong-1; line-height: 21px; display: inline-block; text-transform: uppercase; margin: 6px 0 13px; font-weight: bold;
+			&:hover { color: $color-2 }
+		}
+		&-img a { border-top-left-radius: 5px; border-top-right-radius: 5px }
+		&-text { font-size: $font-size-cong-1; line-height: 24px; height: 72px; overflow: hidden; margin-bottom: 16px }
+		&-link { display: inline-block; font-size: $font-size-tru-3; line-height: 20px; padding: 6px 39px 6px 21px; position: relative; color: #fff; background-color: $color-3; border-radius: 3px;
+			&:before { content: ''; position: absolute; top: 50%; transform: translateY(-50%); background: url('Images/_Icon/plus-icon.png') no-repeat center; width: 9px; height: 11px; right: 21px; z-index: 1 }
+			&:hover { background-color: $color-2 }
+		}
+	}
+}

@@ -1,0 +1,42 @@
+﻿body {margin:0px;overflow:scroll}
+#ChangePriceItems .title {display:block;text-transform:uppercase;font-size:14px;font-weight:bold}
+#ChangePriceItems .subtitle {font-weight:bold;margin:10px 0px;display:block}
+#ChangePriceItems .subtitle span {color:blue}
+#ChangePriceItems .note {margin-bottom:10px;display:block;color:red}
+#ChangePriceItems .note span {color:blue}
+#ChangePriceItems .hd {margin:10px;line-height:20px;color:#333}
+#ChangePriceItems .h20 {height:20px;display:block}
+#ChangePriceItems .cb {clear:both}
+
+/*AdmShortCutItem.ascx*/
+#ChangePriceItems{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:550px;padding:10px 20px}
+#ChangePriceItems .text{float:left;width:150px}
+#ChangePriceItems .box{ float: left;width: 580px}
+#ChangePriceItems .mb20 {margin-bottom:10px}
+#ChangePriceItems .control{float:left;width:603px;position:relative;z-index:1;padding-top:3px}
+#ChangePriceItems .control1{float:left;width:570px;position:relative;z-index:1;padding-top:3px}
+
+#ChangePriceItems .KhungToiUu{ border: solid 1px #d3d3d3;background-color: #e3e3e3}
+#ChangePriceItems .PdKhungToiUu{padding: 15px 0 15px 10px}
+#ChangePriceItems .TextSeoLink{ font: bold 12px Tahoma;padding-bottom: 10px}
+
+#ChangePriceItems .pdButton{padding-left:150px}
+#ChangePriceItems .motMuc{width:180px;float:left}
+#ChangePriceItems .ThuocTinhSanPham{border:solid 1px #d8d8d8;width:720px;padding:5px}
+
+#ChangePriceItems .khungThuocTinh{border:solid 1px #d4d4d4;padding: 10px 20px}
+#ChangePriceItems a.ThietLapAnh{color:Blue;position:absolute;top:10px;right:10px;z-index:2}
+#ChangePriceItems a.ThietLapAnh:hover{color:Green}
+#Toogle_ThietLapAnhDaiDien input[type=text]{width:30px;text-align:center}
+#ChangePriceItems .imgItem{ width: 200px;border: 0}
+
+#ChangePriceItems .ThuocTinhLocSanPham{border:solid 1px #d8d8d8;border-bottom:0;padding:5px}
+#ChangePriceItems .pr10{padding-right:10px}
+#ChangePriceItems .tenThuocTinhCha{font:bold 12px Tahoma;width:180px;float:left}
+#ChangePriceItems .motMuc{width:180px;float:left}
+#ChangePriceItems .motThuocTinh{border-bottom:solid 1px #d8d8d8;padding:5px}
+#ChangePriceItems .ThuocTinhSanPham{border:solid 1px #d8d8d8;padding:5px}
+#ChangePriceItems #DanhSachThuocTinhLocSanPham table tr{float:left;width:175px}
+#ChangePriceItems .cbh8 {clear:both;height:8px}
+#ChangePriceItems .fl {float:left}
+/*AdmShortCutItem.ascx - end*/

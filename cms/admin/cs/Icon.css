@@ -1,0 +1,48 @@
+﻿a.LinkCreate{font:bold 11px/31px Tahoma;background:url(Icon/Create.png) no-repeat}
+a.LinkDelete{font:bold 11px/31px Tahoma;background:url(Icon/Delete.png) no-repeat}
+a.LinkCreate,
+a.LinkDelete{display:inline-block;padding-left:20px;background-position:left center}
+
+a.arrowSort{background:url(Icon/arrowSort.jpg) no-repeat right center;color:inherit;text-decoration:none;padding-right:9px}
+a.arrowSort:hover{color:#4eb913}
+
+.ImageCreateRecord{background:url(Icon/Create.png) no-repeat;width:16px;height:16px}
+.ImageEditRecord{background:url(Icon/Edit.png) no-repeat;width:16px;height:16px}
+.ImageDeleteRecord{background:url(Icon/Delete.png) no-repeat;width:16px;height:16px}
+.ImageFolderNextRecord{background:url(Icon/folder_next.png) no-repeat;width:16px;height:16px}
+.ImageFolderAddRecord{background:url(Icon/folder_add.png) no-repeat;width:16px;height:16px}
+.ImageCommentRecord{background:url(Icon/CommentIcon.png) no-repeat;width:16px;height:16px}
+.ImageRefreshRecord{background:url(Icon/Refresh.png) no-repeat;width:16px;height:16px}
+.SpaceLinkTabCreate{background:url(Icon/SpaceLinkTabCreate.png) no-repeat;width:2px;height:14px}
+.BgButtonSearch{display:block;background:url(Icon/SearchButton.png) no-repeat;width:59px;height:20px;text-decoration:none}
+.BgButtonSearch:hover{background:url(Icon/SearchButtonHover.png) no-repeat}
+
+.iconRecycle,.iconClose,.iconRefresh,.IcoInvi,.iconCreate,.iconSplit,.iconDelete,.icoRefresh,.iconRestore,.iconEdit,.iconViewChild,.iconExcel,.iconPrint
+,.ImageCreateRecord,.ImageEditRecord,.ImageDeleteRecord,.ImageFolderNextRecord,.ImageFolderAddRecord,.ImageCommentRecord,.ImageRefreshRecord,.iconThemTag
+
+{width:16px;height:16px;display:inline-block;cursor:pointer}
+
+.iconRecycle{background:url(Icon/Recycle.png) no-repeat}
+.iconClose{background:url(Icon/Close.png) no-repeat}
+.iconRefresh{background:url(Icon/refresh1.png) no-repeat}
+.IcoInvi{background:url(Icon/IcoInvi.png) no-repeat}
+
+.iconCreate{background:url(Icon/Create.png) no-repeat}
+.iconSplit{background:url(Icon/SpaceLinkTabCreate.png) no-repeat}
+.iconDelete{background:url(Icon/Delete.png) no-repeat}
+.iconRefresh{background:url(Icon/Refresh.png) no-repeat}
+.iconRestore{background:url(Icon/Restore.png) no-repeat}
+.iconEdit{background:url(Icon/Edit.png) no-repeat}
+.iconViewChild{background:url(Icon/ViewChild.png) no-repeat}
+.iconExcel{background:url(Icon/Excel.png) no-repeat}
+.iconPrint{background:url(Icon/Print.png) no-repeat}
+.iconConfig{background:url(Icon/customize.png) no-repeat;width:16px;height:16px}
+.iconReport{background:url(Icon/report.png) no-repeat;width:16px;height:16px}
+.EnableIcon0{width:12px;height:10px;display:inline-block;cursor:pointer;background:url(Icon/uncheck.gif) no-repeat center}
+.EnableIcon1{width:12px;height:10px;display:inline-block;cursor:pointer;background:url(Icon/check.gif) no-repeat center}
+
+.iconLock{background:url(Icon/lock-icon.png) no-repeat;width:16px;height:16px}
+
+.iconEmailAlert{background:url(Icon/email-alert-icon.png) no-repeat;width:16px;height:16px}
+.iconChat{background:url(Icon/chat.png) no-repeat;width:16px;height: 16px;display:inline-block;cursor:pointer}
+.iconThemTag{background:url(Icon/AddTag.png) no-repeat}

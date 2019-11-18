@@ -1,0 +1,34 @@
+﻿#AdvertisingControlCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:560px;_height:560px}
+#AdvertisingControlCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#AdvertisingControlCate .BgTabTitle{font:bold 11px Tahoma;background:#d4d4d4;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#AdvertisingControlCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#AdvertisingControlCate .split{float:left;width:9px;text-align:center}
+#AdvertisingControlCate .cot1,#AdvertisingControlCate .cot2,#AdvertisingControlCate .cot3,#AdvertisingControlCate .cot4,#AdvertisingControlCate .cot5,#AdvertisingControlCate .cot6,#AdvertisingControlCate .cot7{float:left}
+#AdvertisingControlCate .cot1{width:30px;text-align:center}
+#AdvertisingControlCate .cot2{width:180px;padding-left:5px}
+#AdvertisingControlCate .cot3{width:140px;padding-left:5px;text-align:left}
+#AdvertisingControlCate .cot4{width:100px}
+#AdvertisingControlCate .cot5{width:55px}
+#AdvertisingControlCate .cot6{width:70px}
+#AdvertisingControlCate .cot7{width: 120px;text-align: right}
+#AdvertisingControlCate input[type=text]{width:40px;text-align:center}
+
+#AdvertisingControlCate .content{}
+#AdvertisingControlCate .content .FormatCellItem{background-color: #eae9e9}
+#AdvertisingControlCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#AdvertisingControlCate .content .FormatCellItemOther{background-color: transparent}
+#AdvertisingControlCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#AdvertisingControlCate .content .pdCellItem{padding: 10px 0}
+#AdvertisingControlCate .content .pdCellItemOther{padding: 10px 0}
+
+#AdvertisingControlCate .content .splitc{float:left;width:9px;text-align:center}
+#AdvertisingControlCate .content .SpaceRow{background-color:#2d2d2d;height:1px}
+#AdvertisingControlCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#AdvertisingControlCate .content .Tool{ padding-left: 10px;float: right}
+#AdvertisingControlCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#AdvertisingControlCate .EnableIcon0,#AdvertisingControlCate .EnableIcon1{padding-top: 3px}
+
+#AdvertisingControlCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#AdvertisingControlCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}

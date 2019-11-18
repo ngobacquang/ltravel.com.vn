@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "Themes/Theme01/Assets/Css/__main.css",
+    "inputFile": "Themes/Theme01/Assets/Css/__main.scss"
+  },
+  {
+    "outputFile": "Themes/Theme01/Assets/Js/__Homepage.min.es5.js",
+    "inputFile": "Themes/Theme01/Assets/Js/__Homepage.min.js"
+  },
+  {
+    "outputFile": "Themes/Theme01/Assets/Js/__Homepage.es5.js",
+    "inputFile": "Themes/Theme01/Assets/Js/__Homepage.js"
+  }
+]

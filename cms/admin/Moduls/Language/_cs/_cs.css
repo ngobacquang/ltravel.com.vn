@@ -1,0 +1,143 @@
+﻿.ColPrintAndExcel{text-align:right;padding:10px 5px 10px 0;clear:both}
+/*AdmImportItem*/
+#AdmImportItem {font:normal 12px Tahoma}
+#AdmImportItem .tenTrang{font:bold 12px Tahoma;padding:10px}
+#AdmImportItem .cotTrai{float:left;width:380px;padding-left:20px}
+#AdmImportItem .cotPhai{float:left;line-height:20px;text-align:justify;padding-right:20px;padding-left:20px;}
+#AdmImportItem .pb15{padding-bottom:15px}
+#AdmImportItem .w120{width:120px}
+#AdmImportItem .h5{height:5px}
+#AdmImportItem .h25{height:25px}
+#AdmImportItem .fwb{font-weight:bold}
+#AdmImportItem .cRed{color:red}
+/*AdmImportItem - end*/
+/*AdmLanguageLeftMenu*/
+#AdmLanguageLeftMenu{}
+#AdmLanguageLeftMenu .BgImageIconLanguage{background:url(green_flag.png) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:3px;margin-right:3px}
+#AdmLanguageLeftMenu .BgImageIconBarcode{background:url(barcode.png) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:4px;margin-right:3px}
+#AdmLanguageLeftMenu .BgImageIconKey{background:url(key.png) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:4px;margin-right:3px}
+#AdmLanguageLeftMenu .BgImageIconAdd{background:url(add.png) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:4px;margin-right:3px}
+#AdmLanguageLeftMenu .DanhMucQuanLy{font:bold 11px Tahoma;color:#4e4e4e;padding-left:13px;padding-top:5px}
+#AdmLanguageLeftMenu .TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmLanguageLeftMenu a.TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmLanguageLeftMenu a.TextCateManager:hover{color:#00ad24}
+#AdmLanguageLeftMenu .InvisibleSpaceCate{display:none}
+#AdmLanguageLeftMenu .PdSpaceCate{height:1px;padding:5px 0 3px 0px}
+#AdmLanguageLeftMenu .SpaceCate{background-color:#d4d4d4;height:1px;width:195px}
+#AdmLanguageLeftMenu .PdIconInfomation{float:left;padding-left:9px;width:20px;padding-top:4px}
+#AdmLanguageLeftMenu .PdSubIconRecycleBin{float:left;padding-left:45px;width:10px;padding-top:5px}
+#AdmLanguageLeftMenu .PdIconSeo{float:left;padding-left:9px;width:20px;padding-top:4px}
+#AdmLanguageLeftMenu .PdIconMail{float:left;padding-left:9px;width:20px;padding-top:6px}
+#AdmLanguageLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent}
+#AdmLanguageLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+*html #AdmLanguageLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent;border:0;}
+*html #AdmLanguageLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+/*End AdmLanguageLeftMenu*/
+
+#AdmLanguageLoadControls{position:relative;width:998px;font:normal 11px Tahoma}
+#AdmLanguageLoadControls .PositionLeftControl{float:left;width:208px}
+#AdmLanguageLoadControls .PositionRightControl{float:left;width:775px;border:solid 1px #d4d4d4;background-color:#f9f9f9;min-height:560px}
+#AdmLanguageLoadControls .PositionRightControlModul{float:left;width:775px;min-height:560px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTool{background:url(BgTabTool.png) repeat-x;width:775px;height:28px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTool .pdTool{padding-left:10px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTool .TextOnTab{font:bold 11px Tahoma;color:#545454;display:block;line-height:31px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTool a.LinkCreate{float:left;font:bold 11px Tahoma;color:#545454;display:block;line-height:28px;text-decoration:none}
+#AdmLanguageLoadControls .BgLanguageNationalTabTool a.LinkCreate:hover{color:#52c313}
+#AdmLanguageLoadControls .BgLanguageNationalTabTool .SpaceCol{float:left;padding:8px 15px 0 15px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTool .FormatIcon{float:left;padding-top:7px;padding-right:6px}
+
+/* AdmControlsLanguageNational */
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle{font:normal 11px Arial;color:#444;background-color:#eae9e9;height:26px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FomratNationalSpaceCol{float:left;padding-top:4px;padding-left:10px;padding-right:10px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatCheckBox{float:left;width:25px;padding-top:3px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatFlagNational{float:left;width:80px;padding-top:5px;text-align:center}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatNational{float:left;width:250px;padding-top:5px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatNational a.NameNational{font:normal 11px Arial;color:#444;display:block;text-decoration:none;padding-left:5px}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatNational a.NameNational:hover{color:#55af2d}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatNationalOrder{float:left;width:40px;padding-top:5px;}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatNationalStatus{float:left;width:80px;padding-top:5px;}
+#AdmLanguageLoadControls .BgLanguageNationalTabTitle .FormatNationalTool{float:right;padding-right:10px;padding-top:5px}
+
+#AdmLanguageLoadControls .BgContainLanguageNational{font:normal 11px Arial;color:#444}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatCellItem{}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatCellItem:hover{background-color:#edf9eb}
+#AdmLanguageLoadControls .BgContainLanguageNational .pdCellItem{padding-top:5px;padding-bottom:8px}
+#AdmLanguageLoadControls .BgContainLanguageNational .FomratNationalSpaceCol{float:left;padding-top:4px;padding-left:10px;padding-right:10px}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatCheckBox{float:left;width:25px}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatNationalFlag{float:left;width:70px;padding-left:10px}
+#AdmLanguageLoadControls .BgContainLanguageNational .SizeFlag{width:320px;border:0}
+#AdmLanguageLoadControls .BgContainLanguageNational .LanguageNationalName{float:left;width:245px;padding-top:5px;padding-left:5px}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatOrder{float:left;width:40px;padding-top:1px}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatOrder .TextInBox{font:normal 11px Arial;width:18px;height:13px;text-align:center}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatStatus{float:left;width:80px;padding-top:5px}
+#AdmLanguageLoadControls .BgContainLanguageNational .FormatSpaceCol{float:left}
+#AdmLanguageLoadControls .BgContainLanguageNational .LanguageNationalTool{float:right;padding-right:10px;padding-top:2px}
+#AdmLanguageLoadControls .BgContainLanguageNational .PdIconDel{float:right;padding-left:10px}
+#AdmLanguageLoadControls .BgContainLanguageNational .PdIconEdit{float:right;padding-left:10px}
+#AdmLanguageLoadControls .BgContainLanguageNational .SpaceItem{background-color:#d1d1d1;height:1px}
+#AdmLanguageLoadControls .BgContainLanguageNational .pdSpaceItem{padding:0px 7px}
+
+#AdmLanguageLoadControls #AdmShortCutLanguageNational{}
+#AdmLanguageLoadControls #AdmShortCutLanguageNational .FormatColTextLangNational{float:left;width:100px;padding-top:2px;padding-left:10px}
+#AdmLanguageLoadControls #AdmShortCutLanguageNational .FormatColBoxLangNational{float:left;width:250px;}
+#AdmLanguageLoadControls #AdmShortCutLanguageNational .FormatColButton{padding-left:110px}
+#AdmLanguageLoadControls #AdmShortCutLanguageNational .FormatColButton .btnOk{font:normal 12px Arial;color:#444;margin-right:15px;float:left}
+#AdmLanguageLoadControls #AdmShortCutLanguageNational .TextStatus{font:normal 11px Arial;color:#c9cacb}
+#AdmLanguageLoadControls #AdmShortCutLanguageNational .BgTabMesInsertUpdate{display:block;background:url(BgTabTool.png) repeat-x;width:775px;height:28px;line-height:28px;font:bold 12px Arial;color:#444;line-height:28px;padding-left:10px}
+
+/* AdmControlsLanguageKey */
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgLanguageKeyTabTitle{font:normal 11px Arial;color:#444;background-color:#eae9e9;height:26px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgLanguageKeyTabTitle .LanguageKeySpaceCol{float:left;padding-top:4px;padding-left:10px;padding-right:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgLanguageKeyTabTitle .LanguageKeyCheckBox{float:left;width:25px;padding-top:3px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgLanguageKeyTabTitle .LanguageKeyId{float:left;width:50px;padding-top:5px;text-align:left}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgLanguageKeyTabTitle .LanguageKeyCode{float:left;width:250px;padding-top:5px;text-align:left}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgLanguageKeyTabTitle .LanguageKeyDesc{float:left;width:250px;padding-top:5px;text-align:left}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgLanguageKeyTabTitle .LanguageKeyTool{float:right;padding-right:10px;padding-top:5px}
+
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey{font:normal 11px Arial;color:#444}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeyCellItem{}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeyCellItem:hover{background-color:#edf9eb}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .pdLanguageKeyCellItem{padding-top:5px;padding-bottom:8px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeySpaceCol{float:left;padding-top:4px;padding-left:10px;padding-right:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeyCheckBox{float:left;width:25px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeyId{float:left;width:50px;padding-top:3px;font-weight:bold;text-align:center}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeyTitle{float:left;width:250px;padding-top:3px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeyDesc{float:left;width:250px;padding-top:3px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .LanguageKeyTool{float:right;padding-right:10px;padding-top:2px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .PdIconDel{float:right;padding-left:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .PdIconEdit{float:right;padding-left:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .SpaceItem{background-color:#d1d1d1;height:1px}
+#AdmLanguageLoadControls #AdmControlsLanguageKey .BgContainLanguageKey .pdSpaceItem{padding:0px 7px}
+
+#AdmLanguageLoadControls #AdmShortCutLanguageKey{}
+#AdmLanguageLoadControls #AdmShortCutLanguageKey .LanguageKeyColText{float:left;width:100px;padding-top:2px;padding-left:10px}
+#AdmLanguageLoadControls #AdmShortCutLanguageKey .LanguageKeyColBox{float:left;width:250px;}
+#AdmLanguageLoadControls #AdmShortCutLanguageKey .LanguageKeyColButton{padding-left:110px}
+#AdmLanguageLoadControls #AdmShortCutLanguageKey .LanguageKeyColButton .btnOk{font:normal 12px Arial;color:#444;margin-right:15px;float:left}
+#AdmLanguageLoadControls #AdmShortCutLanguageKey .BgTabMesInsertUpdate{display:block;background:url(BgTabTool.png) repeat-x;width:775px;height:28px;line-height:28px;font:bold 12px Arial;color:#444;line-height:28px;padding-left:10px}
+
+/* AdmControlsLanguageItem */
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageLanguageItem{display:block;background:url(BgTabTool.png) repeat-x;width:775px;height:28px;}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageLanguageItem .TextInContain{font:bold 12px Arial;color:#444;display:block;line-height:28px;padding-left:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageItemTabTitle{font:bold 11px Arial;color:#444;background-color:#eae9e9;height:26px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageItemTabTitle .LanguageItemSpaceCol{float:left;padding-top:4px;padding-left:10px;padding-right:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageItemTabTitle .LanguageItemCode{float:left;width:200px;padding-top:5px;text-align:left;padding-left:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageItemTabTitle .LanguageItemWord{float:left;width:300px;padding-top:5px;text-align:left}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageItemTabTitle .LanguageItemImage{float:left;width:90px;padding-top:5px;text-align:left}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgLanguageItemTabTitle .LanguageItemTool{float:right;padding-right:10px;padding-top:5px}
+
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem{font:normal 11px Arial;color:#444}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .LanguageItemCellItem{}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .LanguageItemCellItem:hover{background-color:#edf9eb}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .pdLanguageItemCellItem{padding-top:5px;padding-bottom:8px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .LanguageItemSpaceCol{float:left;padding-top:4px;padding-left:10px;padding-right:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .LanguageItemCode{font:bold 11px Tahoma;float:left;width:200px;padding-top:3px;padding-left:10px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .LanguageItemWord{float:left;width:300px;padding-top:1px;}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .LanguageItemImage{float:left;width:90px;padding-top:1px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .LanguageItemWord .TbLanguageWord{font:normal 11px Arial;color:#444;width:280px;height:14px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .tools{float:right;width:105px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem a.LanguageItemUpdate{font:normal 11px Arial;color:#444;display:inline-block;padding-top:5px;padding-right:5px;text-decoration:none;text-align:right}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem a.LanguageItemUpdate:hover{color:#00ad24}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .SpaceItem{background-color:#d1d1d1;height:1px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .BgContainLanguageItem .pdSpaceItem{padding:0px 7px}
+#AdmLanguageLoadControls #AdmControlsLanguageItem .anhtukhoa{width:85px;max-height:60px}

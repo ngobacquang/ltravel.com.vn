@@ -1,0 +1,34 @@
+﻿#TrainTicketControlCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#TrainTicketControlCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#TrainTicketControlCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#TrainTicketControlCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#TrainTicketControlCate .split{float:left;width:9px;text-align:center}
+#TrainTicketControlCate .cot1,#TrainTicketControlCate .cot2,#TrainTicketControlCate .cot3,#TrainTicketControlCate .cot4,#TrainTicketControlCate .cot5,#TrainTicketControlCate .cot6,#TrainTicketControlCate .cot7{float:left}
+#TrainTicketControlCate .cot1{ width: 30px}
+#TrainTicketControlCate .cot2{width:220px;padding-left:5px}
+#TrainTicketControlCate .cot3{width:100px;padding-left:5px}
+#TrainTicketControlCate .cot4{width:100px}
+#TrainTicketControlCate .cot5{width:55px}
+#TrainTicketControlCate .cot6{width:70px}
+#TrainTicketControlCate .cot7{width: 120px;text-align: right}
+#TrainTicketControlCate input[type=text]{width:40px;text-align:center}
+
+#TrainTicketControlCate .content{}
+#TrainTicketControlCate .content .FormatCellItem{background-color: #F2F2F2}
+#TrainTicketControlCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#TrainTicketControlCate .content .FormatCellItemOther{background-color: transparent}
+#TrainTicketControlCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#TrainTicketControlCate .content .pdCellItem{padding: 10px 0}
+#TrainTicketControlCate .content .pdCellItemOther{padding: 10px 0}
+
+#TrainTicketControlCate .content .splitc{float:left;width:9px;text-align:center}
+#TrainTicketControlCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#TrainTicketControlCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#TrainTicketControlCate .content .Tool{ padding-left: 10px;float: right}
+#TrainTicketControlCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#TrainTicketControlCate .EnableIcon0,#TrainTicketControlCate .EnableIcon1{padding-top: 3px}
+
+#TrainTicketControlCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#TrainTicketControlCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}

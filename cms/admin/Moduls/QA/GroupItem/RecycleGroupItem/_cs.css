@@ -1,0 +1,37 @@
+﻿#QARecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#QARecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#QARecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#QARecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#QARecycleCate .split{float:left;width:9px;text-align:center}
+#QARecycleCate .cot1,#QARecycleCate .cot2,#QARecycleCate .cot3,#QARecycleCate .cot4,#QARecycleCate .cot5{float:left}
+#QARecycleCate .cot1{ width: 30px}
+#QARecycleCate .cot2{width:220px;padding-left:5px}
+#QARecycleCate .cot4{width:350px}
+#QARecycleCate .cot5{width:55px}
+#QARecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#QARecycleCate input[type=text]{width:40px;text-align:center}
+
+#QARecycleCate .content{}
+#QARecycleCate .content .FormatCellItem{background-color: #F2F2F2}
+#QARecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#QARecycleCate .content .FormatCellItemOther{background-color: transparent}
+#QARecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#QARecycleCate .content .pdCellItem{padding: 10px 0}
+#QARecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#QARecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#QARecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#QARecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#QARecycleCate .content .Tool{ padding-left: 10px;float: right}
+#QARecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#QARecycleCate .EnableIcon0,#QARecycleCate .EnableIcon1{padding-top: 3px}
+
+#QARecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#QARecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

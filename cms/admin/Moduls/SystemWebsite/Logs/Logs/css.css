@@ -1,0 +1,39 @@
+﻿#Logs .item{clear:both;border-bottom:solid 1px #dfdfdf;padding:5px}
+#Logs .head{text-align:center;font:normal 22px/50px Arial;color:#ff6600;text-shadow:1px 1px 1px #333333}
+#Logs .item span,
+#Logs .item a{color:#adadad}
+#Logs .item:hover{background:#EDF9EB}
+
+
+#Logs .AdminPagging{padding:10px 5px;text-align:right}
+
+#Logs .AdminPagging .currentPS {  
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 9px;
+}
+#Logs .AdminPagging .otherPS {   
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 9px;
+}
+#Logs .AdminPagging .firstPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 19px;
+}
+#Logs .AdminPagging .lastPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 19px;
+}
+#Logs .AdminPagging .previewPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 12px;
+}
+#Logs .AdminPagging .nextPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 12px;
+}

@@ -1,0 +1,28 @@
+﻿#ListMember{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ListMember .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px;position:relative;z-index:1}
+#ListMember .BgTabTitle{font:bold 11px Tahoma;background:#d4d4d4;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ListMember .BgTabTitle a{font-weight:bold;line-height:26px}
+#ListMember .split{float:left;width:9px;text-align:center}
+#ListMember .cot1,#ListMember .cot2,#ListMember .cot3,#ListMember .cot4,#ListMember .cot5,#ListMember .cot6{float:left}
+#ListMember .cot1{width:30px}
+#ListMember .cot2{width:100px;padding-left:5px}
+#ListMember .cot3{width:220px}
+#ListMember .cot4{width:70px}
+#ListMember .cot5{width:100px}
+#ListMember .cot6{width:100px}
+#ListMember input[type=text]{width:40px;text-align:center}
+#ListMember .right{position:absolute;z-index:2;right:5px;top:5px}
+
+#ListMember .SizeImgMem{width:90px;max-height:150px}
+#ListMember .spaceRowItem{border-top: dashed 1px #d9d8d8}
+#ListMember .bgItem{padding:6px 0}
+#ListMember .bgItem:hover{background:#edf9eb}
+
+
+#MemberPlaceSearch{position:fixed;z-index:2;bottom:0;left:0;width: 100%}
+#MemberPlaceSearch .frame{width:996px;margin:auto;background:#f3f2ea;border-top:solid 2px #4aa02c;box-shadow:0 0 0 1px #fff}
+#MemberPlaceSearch .frame2{width:850px;margin:auto;padding:12px 0}
+#MemberPlaceSearch a.lbtSearch{display:inline-block;width:95px;height:20px;background:url(timkiem.png) no-repeat}
+#MemberPlaceSearch input[type=text],
+#MemberPlaceSearch select{border:solid 1px #bebba7;font:normal 12px Tahoma;color:#333;width:265px;padding:2px 5px;text-align: left}
+#MemberPlaceSearch select{padding:1px;width:276px}

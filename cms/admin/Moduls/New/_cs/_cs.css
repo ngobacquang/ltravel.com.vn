@@ -1,0 +1,95 @@
+﻿/*Cac Icon cua modul product*/
+.iconDanhMuc,.iconDanhSach,.iconNhom,.iconDonHang,.iconThuocTinh,.iconLoc,.iconMau,.iconPhanHoi,
+.iconDanhMucThemMoi,.iconDanhSachThemMoi,.iconNhomThemMoi,.iconThuocTinhThemMoi,.iconLocThemMoi,.iconMauThemMoi,
+.iconLocAdd,.iconThemVaoNhom,.iconThemAnh,.iconChiTiet,.iconChiTiet
+{width:16px;height:16px;cursor:pointer;display:inline-block}
+.iconDanhMuc{background:url(ManagerCategory.png) no-repeat}
+.iconDanhSach{background:url(ManagerItem.png) no-repeat}
+.iconNhom{background:url(ManagerGroup.png) no-repeat}
+.iconDonHang{background:url(ManagerCart.png) no-repeat}
+.iconThuocTinh{background:url(Property.png) no-repeat}
+.iconLoc{background:url(Filter.png) no-repeat}
+.iconMau{background:url(Color.png) no-repeat}
+.iconPhanHoi{background:url(CommentIcon.png) no-repeat}
+.iconDanhMucThemMoi{background:url(CreateCategory.png) no-repeat}
+.iconDanhSachThemMoi{background:url(CreateItem.png) no-repeat}
+.iconNhomThemMoi{background:url(CreateGroup.png) no-repeat}
+.iconThuocTinhThemMoi{background:url(CreateProperty.png) no-repeat}
+.iconLocThemMoi{background:url(CreateFilter.png) no-repeat}
+.iconMauThemMoi{background:url(CreateColor.png) no-repeat}
+.iconLocAdd{background:url(AddFilter.png) no-repeat}
+.iconChonNhom{background:url(AddGroupForItem.png) no-repeat}
+.iconThemVaoNhom{background:url(AddItemToGroup.png) no-repeat}
+.iconThemAnh{background:url(AddPictures.png) no-repeat}
+.iconChiTiet{background:url(Information.png) no-repeat}
+.iconExcel{background:url(excel.png) no-repeat}
+/*LoadControls - Khung trang trai-phai*/
+.PositionLeftControl{float:left;width: 208px}
+.PositionRightControl{float:left;width:775px;min-height:750px}
+
+#FooterRightControl{border-top:0;text-align:right}
+#FooterRightControl .pdFooterR{padding-left: 10px}
+#FooterRightControl .ColShowItem{ float: right;width: 120px;padding-top: 12px}
+#FooterRightControl .ColShowItem .TextShow{ float: left;width: 50px;padding-top:3px;padding-right:5px}
+#FooterRightControl .ColShowItem .BoxShow{ float: left;width: 50px}
+#FooterRightControl .ColPagging{float:right;width:auto}
+
+#admitem .ColShowItem{ float: right;width: 120px;padding-top: 0}
+#admitem .ColShowItem .TextShow{ float: left;width: 50px;padding-top:0;padding-right:5px}
+#admitem .ColShowItem .BoxShow{ float: left;width: 50px}
+#admitem .ColPagging{float:right;width:auto}
+#admitem .AdminPagging a {}
+#admitem .AdminPagging .currentPS {  
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 9px;
+}
+#admitem .AdminPagging .otherPS {   
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 9px;
+}
+#admitem .AdminPagging .firstPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 19px;
+}
+#admitem .AdminPagging .lastPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 19px;
+}
+#admitem .AdminPagging .previewPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 12px;
+}
+#admitem .AdminPagging .nextPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 12px;
+}
+/*End LoadControls - Khung trang trai-phai - end*/
+
+/*Left New - Cac menu quan ly ben trai*/
+#NewAdmLeftMenu{}
+#NewAdmLeftMenu .BgTabTongQuan{background:url(BgTabTongQuan.png) no-repeat;width:204px;height:37px;}
+#NewAdmLeftMenu .BgTabTongQuan a.TextInTabTongQuan{font:bold 12px Tahoma;color:#464646;display:block;padding-left:13px;line-height:29px;text-decoration:none}
+#NewAdmLeftMenu .BgTabTongQuan a.TextInTabTongQuan:hover{color:#52c313}
+#NewAdmLeftMenu .DanhMucQuanLy{font:bold 11px Tahoma;color:#4e4e4e;padding-left:13px;padding-top:5px;}
+#NewAdmLeftMenu .TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px;}
+#NewAdmLeftMenu a.TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px;}
+#NewAdmLeftMenu a.TextCateManager:hover{color:#00ad24}
+#NewAdmLeftMenu a.Selected{font-weight:bold}
+#NewAdmLeftMenu .InvisibleSpaceCate{display:none}
+#NewAdmLeftMenu .PdSpaceCate{height:1px;padding:5px 0 3px 0px;}
+#NewAdmLeftMenu .SpaceCate{background-color:#d4d4d4;height:1px;width:195px;}
+#NewAdmLeftMenu .PdIconInfomation{float:left;padding-left:9px;width:20px;padding-top:4px;}
+#NewAdmLeftMenu .PdSubIconRecycleBin{float:left;padding-left:45px;width:10px;padding-top:5px;}
+#NewAdmLeftMenu .PdIconSeo{float:left;padding-left:9px;width:20px;padding-top:4px}
+#NewAdmLeftMenu .PdIconMail{float:left;padding-left:9px;width:20px;padding-top:6px}
+#NewAdmLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent;}
+#NewAdmLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+*html #NewAdmLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent;border:0;}
+*html #NewAdmLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4;}
+/*Left New - Cac menu quan ly ben trai - end*/

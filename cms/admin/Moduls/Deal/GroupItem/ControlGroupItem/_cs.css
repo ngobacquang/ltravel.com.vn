@@ -1,0 +1,34 @@
+﻿#DealControlCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#DealControlCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#DealControlCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#DealControlCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#DealControlCate .split{float:left;width:9px;text-align:center}
+#DealControlCate .cot1,#DealControlCate .cot2,#DealControlCate .cot3,#DealControlCate .cot4,#DealControlCate .cot5,#DealControlCate .cot6,#DealControlCate .cot7{float:left}
+#DealControlCate .cot1{ width: 30px}
+#DealControlCate .cot2{width:220px;padding-left:5px}
+#DealControlCate .cot3{width:100px;padding-left:5px}
+#DealControlCate .cot4{width:100px}
+#DealControlCate .cot5{width:55px}
+#DealControlCate .cot6{width:70px}
+#DealControlCate .cot7{width: 120px;text-align: right}
+#DealControlCate input[type=text]{width:40px;text-align:center}
+
+#DealControlCate .content{}
+#DealControlCate .content .FormatCellItem{background-color: #F2F2F2}
+#DealControlCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#DealControlCate .content .FormatCellItemOther{background-color: transparent}
+#DealControlCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#DealControlCate .content .pdCellItem{padding: 10px 0}
+#DealControlCate .content .pdCellItemOther{padding: 10px 0}
+
+#DealControlCate .content .splitc{float:left;width:9px;text-align:center}
+#DealControlCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#DealControlCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#DealControlCate .content .Tool{ padding-left: 10px;float: right}
+#DealControlCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#DealControlCate .EnableIcon0,#DealControlCate .EnableIcon1{padding-top: 3px}
+
+#DealControlCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#DealControlCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}

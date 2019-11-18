@@ -1,0 +1,24 @@
+﻿.m0{ margin: 0;padding:0}
+.pt10{padding-top: 10px}
+.cb{ clear: both;height: 0}
+.cb10{ clear: both;height: 10px}
+.cb5{ clear: both;height: 5px}
+#SendMesAlert{font: normal 12px Tahoma}
+#SendMesAlert .BgTabTool{ background-color: #f9f9f9;height: 28px}
+#SendMesAlert .BgTabTool a.SendNotice{ font: bold 12px Tahoma;color: #2d2d2d;display: block;text-decoration: none;line-height: 28px;padding-left: 10px}
+#SendMesAlert .BgTabTool a.SendNotice:hover{color: #00ad24}
+#SendMesAlert .ColInfoNotice{ float: left;width: 600px}
+#SendMesAlert .ColToolNotice{ float: left;width: 180px}
+#SendMesAlert .ColSpaceNotice{ float: left;width: 10px;text-align: center}
+
+#SendMesAlert .BgTabContent{ background-color: #d4d4d4;height: 28px;font: bold 11px Tahoma;line-height: 28px}
+#SendMesAlert .BgTabContent .pdTxtInfo{padding-left: 10px}
+#SendMesAlert .ContentItem{ font: normal 11px Tahoma;padding-left: 10px;padding-top: 10px;padding-bottom: 10px}
+#SendMesAlert .SpaceItem{ background-color: #d8d8d8;height:  1px}
+
+#SendMesAlert .ColTxt{ float: left;width: 100px;padding-right: 10px;text-align: right;padding-top: 3px}
+#SendMesAlert .ColVal{ float: left;width: 600px}
+#SendMesAlert .TxtMes{ font: bold 12px Tahoma;color: #ff0000;padding:15px 0 15px 110px}
+#SendMesAlert .pdBtn{padding-left: 110px}
+
+#SendMesAlert a.ToolNotice{ font: normal 11px Tahoma;color: blue;text-decoration: none;display: block;padding-right: 15px;padding-top: 10px;float: left}

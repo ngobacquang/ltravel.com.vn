@@ -1,0 +1,34 @@
+﻿#ControlGroupItem{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#ControlGroupItem .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#ControlGroupItem .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ControlGroupItem .BgTabTitle a{font-weight:bold;line-height:26px}
+#ControlGroupItem .split{float:left;width:9px;text-align:center}
+#ControlGroupItem .cot1,#ControlGroupItem .cot2,#ControlGroupItem .cot3,#ControlGroupItem .cot4,#ControlGroupItem .cot5,#ControlGroupItem .cot6,#ControlGroupItem .cot7{float:left}
+#ControlGroupItem .cot1{width:30px;text-align:center}
+#ControlGroupItem .cot2{width:220px;padding-left:10px;position:relative;z-index:1}
+#ControlGroupItem .cot3{width:100px;padding-left:5px}
+#ControlGroupItem .cot4{width:100px}
+#ControlGroupItem .cot5{width:55px}
+#ControlGroupItem .cot6{width:70px}
+#ControlGroupItem .cot7{width: 120px;text-align: right}
+#ControlGroupItem input[type=text]{width:40px;text-align:center}
+
+#ControlGroupItem .content{}
+#ControlGroupItem .content .FormatCellItem{background-color: #F2F2F2}
+#ControlGroupItem .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#ControlGroupItem .content .FormatCellItemOther{background-color: transparent}
+#ControlGroupItem .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#ControlGroupItem .content .pdCellItem{padding: 10px 0}
+#ControlGroupItem .content .pdCellItemOther{padding: 10px 0}
+
+#ControlGroupItem .content .splitc{float:left;width:9px;text-align:center}
+#ControlGroupItem .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#ControlGroupItem .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#ControlGroupItem .content .Tool{ padding-left: 10px;float: right}
+#ControlGroupItem .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#ControlGroupItem .EnableIcon0,#ControlGroupItem .EnableIcon1{padding-top: 3px}
+
+#ControlGroupItem .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}
+#ControlGroupItem .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}

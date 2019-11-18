@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="PopupThemLichTrinhAjax.aspx.cs" Inherits="cms_admin_Moduls_Tour_Item_Popup_PopupThemLichTrinhAjax" %>

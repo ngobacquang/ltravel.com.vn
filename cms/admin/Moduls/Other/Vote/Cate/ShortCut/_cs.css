@@ -1,0 +1,9 @@
+﻿/*Admvotescgory*/
+#votesc{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:800px;_height:800px}
+#votesc .TxtInsertUpdate{background:#d4d4d4;height:28px; font: bold 12px Arial;color: #333;line-height: 28px;padding-left: 20px;display: block}
+#votesc .pdControl{padding:0 20px}
+#votesc .text{float:left;width:150px}
+#votesc .control{float:left;width:230px;position:relative;z-index:1;padding-top:3px}
+#votesc .TextSeoLink{font:bold 12px Tahoma;color: #444;padding-bottom: 15px}
+#votesc .pdButton{padding-left:150px}
+/*Admvotescgory - end*/

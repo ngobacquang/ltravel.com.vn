@@ -1,0 +1,37 @@
+﻿#TrainTicketRecycleFilter{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#TrainTicketRecycleFilter .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#TrainTicketRecycleFilter .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#TrainTicketRecycleFilter .BgTabTitle a{font-weight:bold;line-height:26px}
+#TrainTicketRecycleFilter .split{float:left;width:9px;text-align:center}
+#TrainTicketRecycleFilter .cot1,#TrainTicketRecycleFilter .cot2,#TrainTicketRecycleFilter .cot3,#TrainTicketRecycleFilter .cot4,#TrainTicketRecycleFilter .cot5{float:left}
+#TrainTicketRecycleFilter .cot1{ width: 30px}
+#TrainTicketRecycleFilter .cot2{width:220px;padding-left:5px}
+#TrainTicketRecycleFilter .cot4{width:350px}
+#TrainTicketRecycleFilter .cot5{width:55px}
+#TrainTicketRecycleFilter .cot7{float: right;width: 50px;padding-right: 10px}
+#TrainTicketRecycleFilter input[type=text]{width:40px;text-align:center}
+
+#TrainTicketRecycleFilter .content{}
+#TrainTicketRecycleFilter .content .FormatCellItem{background-color: #F2F2F2}
+#TrainTicketRecycleFilter .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#TrainTicketRecycleFilter .content .FormatCellItemOther{background-color: transparent}
+#TrainTicketRecycleFilter .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#TrainTicketRecycleFilter .content .pdCellItem{padding: 10px 0}
+#TrainTicketRecycleFilter .content .pdCellItemOther{padding: 10px 0}
+
+#TrainTicketRecycleFilter .content .splitc{float:left;width:9px;text-align:center}
+#TrainTicketRecycleFilter .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#TrainTicketRecycleFilter .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#TrainTicketRecycleFilter .content .Tool{ padding-left: 10px;float: right}
+#TrainTicketRecycleFilter .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#TrainTicketRecycleFilter .EnableIcon0,#TrainTicketRecycleFilter .EnableIcon1{padding-top: 3px}
+
+#TrainTicketRecycleFilter .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#TrainTicketRecycleFilter .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

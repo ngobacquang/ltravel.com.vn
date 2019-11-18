@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="CancelItem.aspx.cs" Inherits="cms_admin_Ajax_CancelItem" %>

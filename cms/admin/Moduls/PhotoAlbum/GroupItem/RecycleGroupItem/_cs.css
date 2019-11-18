@@ -1,0 +1,37 @@
+﻿#PhotoAlbumRecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#PhotoAlbumRecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#PhotoAlbumRecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#PhotoAlbumRecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#PhotoAlbumRecycleCate .split{float:left;width:9px;text-align:center}
+#PhotoAlbumRecycleCate .cot1,#PhotoAlbumRecycleCate .cot2,#PhotoAlbumRecycleCate .cot3,#PhotoAlbumRecycleCate .cot4,#PhotoAlbumRecycleCate .cot5{float:left}
+#PhotoAlbumRecycleCate .cot1{ width: 30px}
+#PhotoAlbumRecycleCate .cot2{width:220px;padding-left:5px}
+#PhotoAlbumRecycleCate .cot4{width:350px}
+#PhotoAlbumRecycleCate .cot5{width:55px}
+#PhotoAlbumRecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#PhotoAlbumRecycleCate input[type=text]{width:40px;text-align:center}
+
+#PhotoAlbumRecycleCate .content{}
+#PhotoAlbumRecycleCate .content .FormatCellItem{background-color: #F2F2F2}
+#PhotoAlbumRecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#PhotoAlbumRecycleCate .content .FormatCellItemOther{background-color: transparent}
+#PhotoAlbumRecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#PhotoAlbumRecycleCate .content .pdCellItem{padding: 10px 0}
+#PhotoAlbumRecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#PhotoAlbumRecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#PhotoAlbumRecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#PhotoAlbumRecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#PhotoAlbumRecycleCate .content .Tool{ padding-left: 10px;float: right}
+#PhotoAlbumRecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#PhotoAlbumRecycleCate .EnableIcon0,#PhotoAlbumRecycleCate .EnableIcon1{padding-top: 3px}
+
+#PhotoAlbumRecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#PhotoAlbumRecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

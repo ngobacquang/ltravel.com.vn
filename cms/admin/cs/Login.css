@@ -1,0 +1,52 @@
+﻿body{font:normal 12px Arial;color:#333}
+.container{width:960px;margin:0 auto;min-width:320px}
+a{text-decoration:none}
+a:hover{color:#ff6600 !important}
+
+/*Khối chứa slogin, cờ ngôn ngữ*/
+.top{padding:20px 0;position:relative;z-index:1;margin-bottom:20px}
+.slogan{height:31px;background:url(Login/slogan.png) no-repeat left center}
+.slogan span{color:#0d9d3b;text-transform:uppercase;font-size:26px;font-family:'Times New Roman';display:none}
+
+.langs{position:absolute;z-index:1;top:20px;right:0}
+.FormatFlatLang{display:inline-block;width:24px;height:16px;margin-left:6px}
+.FormatFlatLang img{width:100%;height:100%;border:0;padding:1px;background:#fff}
+
+
+.FormatFlatLang img.imgFlagCurrent{box-shadow:0 0 0 1px #ff0000}
+.FormatFlatLang img:hover{box-shadow:0 0 0 1px #00f}
+
+/*Khối bên trái*/
+.leftCol{float:left;width:65%;background:url(login/banner.png) no-repeat top center;padding-top:200px}
+.head{font-weight:bold;text-transform:uppercase;color:#ff6600;margin-bottom:5px}
+.head1{padding:10px 10px 10px 30px;background:url(Login/iconStar.png) no-repeat left center}
+.head2{padding:10px 10px 10px 30px;background:url(Login/iconInfo.png) no-repeat left center}
+.leftCol p{margin-top:0}
+.leftCol a{color:inherit;text-decoration:none}
+
+
+/*Khối bên phải*/
+.rightCol{float:right;width:32%}
+.rightCol .loginBox{border:solid 1px #cdcdcd;border-radius:5px;box-shadow:0 0 6px #ccc}
+.rightCol .loginBox{background:linear-gradient(to bottom,#f2f2f2,#ffffff,#ffffff,#f3f3f3)}
+.rightCol .title{border-bottom:solid 4px #ffc914;font-size:20px;text-align:center;line-height:25px;padding:15px 0}
+
+.rightCol .controls{border-bottom:dashed 1px #ffc914;padding:35px 0 30px 20px}
+.rightCol .item{padding-bottom:8px}
+.rightCol .text{float:left;width:77px;font-weight:bold;padding-top:5px}
+.rightCol .control input[type=text],
+.rightCol .control input[type=password]{border:solid 1px #dfdfdf;padding:3px 5px;font-family:inherit;width:66%;box-sizing:border-box}
+.rightCol .btLogin{padding:7px 20px;margin-top:10px;cursor:pointer;font-size:14px;color:#fff;border:solid 1px #fff;border-radius:3px;box-shadow:0 0 6px #ccc}
+.rightCol .btLogin{background:linear-gradient(to bottom,#92fe77,#1bb61a)}
+.rightCol .btLogin:focus,
+.rightCol .btLogin:hover{background:linear-gradient(to bottom,#ffcdab,#ff6600)}
+.rightCol .loginLocked{color:#ff0000;padding:10px 20px 0 0}
+
+/*Khối link giới thiệu cuối cột phải*/
+.rightCol .title2{font-size:22px;text-transform:uppercase;padding:18px 0;text-align:center;font-family:Tahoma}
+.rightCol .copyright{color:#999;text-align:center;padding:8px 0}
+
+.rightCol ul,
+.rightCol li{margin:0;padding:0}
+.rightCol li{list-style:none;background:url(Login/iconCheck.png) no-repeat top left;padding-left:25px;padding-bottom:15px;margin-left:20px}
+.rightCol li a{color:inherit}

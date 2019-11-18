@@ -1,0 +1,27 @@
+﻿/*Header*/
+#AdmHeader{height:72px}
+#AdmHeader .FormatColLogo{display:block;float:left;width:300px}
+#AdmHeader .FormatColRightControl{display:block;float:right;width:auto}
+	/*---Top Menu---*/
+	#AdmHeader #AdmControlsHeaderTopMenu{font:normal 11px Tahoma;color:#4e4e4e}
+	#AdmHeader #AdmControlsHeaderTopMenu .BgLeftControls{background:url(BgLeftTopMenu.png) no-repeat;width:63px;height:24px;position:absolute;left:-63px;top:0px;}
+	#AdmHeader #AdmControlsHeaderTopMenu .BgCenterControls{background-color:#ececec;height:24px;position:relative;padding-right:70px;}
+	#AdmHeader #AdmControlsHeaderTopMenu .BgRightControls{background:url(BgRightTopMenu.png) no-repeat;width:66px;height:24px;position:absolute;right:0px;top:0px;}
+	#AdmHeader #AdmControlsHeaderTopMenu a.LnkManagerAccount{font:normal 11px Tahoma;color:#4e4e4e;display:block;text-decoration:none;float:left;line-height:24px}
+	#AdmHeader #AdmControlsHeaderTopMenu a.LnkManagerAccount:hover{color:#ccc}
+	#AdmHeader #AdmControlsHeaderTopMenu a.LnkManagerInfoAccount{font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+	#AdmHeader #AdmControlsHeaderTopMenu a.LnkManagerInfoAccount:hover{color:#ccc}
+	#AdmHeader #AdmControlsHeaderTopMenu .linkLogout{float:left}
+	#AdmHeader #AdmControlsHeaderTopMenu a.LbOut{font:normal 11px Tahoma;color:#007de7;text-decoration:none;line-height:24px}
+	#AdmHeader #AdmControlsHeaderTopMenu a.LbOut:hover{color:#ccc}
+	#AdmHeader #AdmControlsHeaderTopMenu .HelloUserName{float:left}
+	#AdmHeader #AdmControlsHeaderTopMenu a.UserName{font:bold 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+	#AdmHeader #AdmControlsHeaderTopMenu a.UserName:hover{color:#007de7}
+	#AdmHeader #AdmControlsHeaderTopMenu .MesAccount{float:left}
+	#AdmHeader #AdmControlsHeaderTopMenu .SpaceCol{float:left;padding:0 10px;line-height:24px}
+	#AdmHeader #AdmControlsHeaderTopMenu .fl{float:left}	
+	#AdmHeader #AdmControlsHeaderTopMenu .pdFlatLang{position:relative;z-index:1;width:40px;height:25px}    
+    #AdmHeader #AdmControlsHeaderTopMenu .pdFlatLang .imgFlag{float:left;position:absolute;top:3px;left:5px;width:24px;border:0;padding:2px;z-index:1}    
+    #AdmHeader #AdmControlsHeaderTopMenu .pdFlatLang .imgFlagCurrent{float:left;position:absolute;top:3px;left:5px;width:24px;height:16px;border:0;padding:2px;z-index:2}
+	/*---End Top Menu---*/
+/*End Header*/

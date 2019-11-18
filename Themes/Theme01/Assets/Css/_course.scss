@@ -1,0 +1,33 @@
+﻿.course-1 {
+	h2.h2-title { margin-bottom: 12px }
+	.imgc:before { padding-bottom: 66.666666667% }
+	.list {
+		&-text { max-width: 840px; margin: 0 auto 26px; font-size: $font-size-cong-1; line-height: 22px }
+		&-link { text-transform: uppercase; color: #fff; line-height: 22px; padding: 9px 50px; border-radius: 3px; background-color: $color-3; display: inline-block; margin-top: -7px;
+			&:hover { background-color: $color-2 }
+		}
+	}
+	.item { box-shadow: 0 0 10px rgba(0,0,0,.2); border-radius: 8px; border-bottom: 4px solid $color-2; margin-bottom: 34px;
+		&-body { padding: 14px 15px 6px }
+		&-img { border-top-left-radius: 8px; border-top-right-radius: 8px; overflow: hidden }
+		&-title { font-weight: bold; font-size: $font-size-cong-3; color: $color-3; line-height: 24px; display: block; margin-bottom: 16px;
+			&:hover { color: $color-2 }
+		}
+		&-text { font-size: $font-size-cong-1; line-height: 22px; margin-bottom: 4px } 
+		&-price { font-size: $font-size-cong-1; line-height: 29px; margin-bottom: 14px;
+			& > .text { font-weight: bold; margin-right: 5px }
+			& > .price { font-weight: bold; color: $color-2; margin-right: 24px }
+			& > .price-line-through { color: $color-light; text-decoration: line-through }
+		}
+		&-link { font-size: $font-size-tru-1; color: $color-3; line-height: 22px; padding-right: 25px; position: relative;
+			&:after { content: '/'; position: absolute; z-index: 1; top: 2px; right: 8px; color: $color-light; line-height: 1 }
+			&:hover { color: $color-2 }
+			&:nth-child(2) { padding-right: 0;
+				&:after { display: none }
+			}
+			&:last-child { font-weight: bold; color: $color-2; line-height: 34px; margin-bottom: 2px; display: block;
+				&:after { display: none }
+			}
+		}
+	}
+}

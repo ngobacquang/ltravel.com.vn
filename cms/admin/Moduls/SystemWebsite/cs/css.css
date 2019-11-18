@@ -1,0 +1,74 @@
+﻿/*LoadControls*/
+#AdmLoadControls{position:relative;width:998px;font:normal 11px Tahoma}
+#AdmLoadControls .PositionLeftControl{float:left;width:208px}
+#AdmLoadControls .PositionRightControl{float:left;width:775px;border:solid 1px #d4d4d4;background:#f9f9f9;min-height:560px}
+.iconadm{max-width:300px;max-height:200px}
+.iconfavi{max-width:64px;max-height:64px}
+
+#AdmLoadControls .PositionRightControlModul{float:left;width:775px}
+/*End LoadControls*/
+
+/*Left Menu*/
+#AdmLeftMenu{}
+#AdmLeftMenu .DanhMucQuanLy{font:bold 11px Tahoma;color:#4e4e4e;padding-left:13px;padding-top:5px}
+#AdmLeftMenu .TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmLeftMenu a.TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmLeftMenu a.TextCateManager:hover{color:#00ad24}
+
+#AdmLeftMenu .InfoIcon{float:left;background:url(InfoIcon.png) no-repeat;width:16px;height:16px}
+#AdmLeftMenu .SeoIcon{float:left;background:url(SeoIcon.png) no-repeat;width:16px;height:16px}
+#AdmLeftMenu .EmailIcon{float:left;background:url(EmailIcon.png) no-repeat;width:16px;height:16px;margin-top:3px}
+#AdmLeftMenu .PopupIcon{float:left;background:url(PopupIcon.gif) no-repeat;width:16px;height:16px}
+#AdmLeftMenu .MediaIcon{float:left;background:url(MediaIcon.png) no-repeat;width:16px;height:16px}
+
+#AdmLeftMenu .SettingIcon{float:left;background:url(SettingIcon.png) no-repeat;width:16px;height:16px}
+#AdmLeftMenu .LogsIcon{float:left;background:url(LogsIcon.png) no-repeat;width:16px;height:16px}
+
+#AdmLeftMenu .InvisibleSpaceCate{display:none}
+#AdmLeftMenu .PdSpaceCate{height:1px;padding:5px 0 3px 0px}
+#AdmLeftMenu .SpaceCate{background-color:#d4d4d4;height:1px;width:195px}
+#AdmLeftMenu .PdIconInfomation{float:left;padding-left:9px;width:20px;padding-top:4px}
+#AdmLeftMenu .PdSubIconRecycleBin{float:left;padding-left:45px;width:10px;padding-top:5px}
+#AdmLeftMenu .PdIconSeo{float:left;padding-left:9px;width:20px;padding-top:4px}
+#AdmLeftMenu .PdIconMail{float:left;padding-left:9px;width:20px;padding-top:6px}
+#AdmLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent}
+#AdmLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+*html #AdmLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent;border:0;}
+*html #AdmLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+/*Left Menu*/
+
+/*AdmIndex*/
+#AdmIndex{}
+#AdmIndex .pdControl{padding:27px 0 20px 23px}
+#AdmIndex .TextTabCate{font:bold 12px Tahoma;color:#3da903;display:block;padding-bottom:10px;text-transform:uppercase}
+#AdmIndex .TextCol{font:bold 12px Tahoma;color:#000;display:block;padding:8px 10px 8px 5px;text-align:right}
+#AdmIndex .TextCol2{font:normal 12px Tahoma;color:#000;display:block;padding:8px 5px;text-align:justify}
+/*End AdmIndex*/
+
+/*AdmInformationWebsite*/
+#AdmInformationWebsite{font:normal 12px Tahoma}
+#AdmInformationWebsite .pdControl{padding:27px 0 20px 23px}
+#AdmInformationWebsite .FormatColText{float:left;width:180px;padding-top:5px}
+#AdmInformationWebsite .FormatColBox{float:left;width:550px}
+#AdmInformationWebsite .PdLeftButton{padding-left:185px}
+/*End AdmInformationWebsite*/
+/*AdmOptimizeWebsite*/
+#AdmOptimizeWebsite{font:normal 12px Tahoma}
+#AdmOptimizeWebsite .pdControl{padding:27px 0 20px 23px}
+#AdmOptimizeWebsite .FormatColText{float:left;width:110px;padding-top:5px}
+#AdmOptimizeWebsite .FormatColBox{float:left;width:550px}
+#AdmOptimizeWebsite .PdLeftButton{padding-left:110px}
+/*End AdmOptimizeWebsite*/
+/*AdmEmailWebsite*/
+#AdmEmailWebsite{font:normal 12px Tahoma}
+#AdmEmailWebsite .pdControl{padding:27px 0 20px 23px;min-height:390px}
+#AdmEmailWebsite .FormatColText{float:left;width:150px;padding-top:5px}
+#AdmEmailWebsite .FormatColBox{float:left;width:550px}
+#AdmEmailWebsite .PdLeftButton{padding-left:150px}
+/*End AdmEmailWebsite*/
+
+
+/****AdmSystemConfig****/
+#AdmSystemConfig .FormatColText{float: left; padding-top: 5px;width: 250px; font-weight:bold;}
+#AdmSystemConfig .FormatColValue{float:left; padding-top:5px; width:400px;}
+#AdmSystemConfig .ddlSelect{text-align:center;}

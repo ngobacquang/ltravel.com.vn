@@ -1,0 +1,87 @@
+﻿/*LoadControls*/
+#AdmUserLoadControls{position:relative;width:998px;font:normal 11px Tahoma}
+#AdmUserLoadControls .PositionLeftControl{float:left;width:208px}
+#AdmUserLoadControls .PositionRightControl{float:left;width:775px;border:solid 1px #d4d4d4;background:#f9f9f9;min-height:560px}
+#AdmUserLoadControls .PositionRightControlModul{float:left;width:775px}
+/*End LoadControls*/
+
+/*Left Menu*/
+#AdmUserLeftMenu{}
+#AdmUserLeftMenu .DanhMucQuanLy{font:bold 11px Tahoma;color:#4e4e4e;padding-left:13px;padding-top:5px}
+#AdmUserLeftMenu .TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmUserLeftMenu a.TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmUserLeftMenu a.TextCateManager:hover{color:#00ad24}
+#AdmUserLeftMenu .InvisibleSpaceCate{display:none}
+#AdmUserLeftMenu .PdSpaceCate{height:1px;padding:5px 0 3px 0px}
+#AdmUserLeftMenu .SpaceCate{background-color:#d4d4d4;height:1px;width:195px}
+#AdmUserLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent}
+#AdmUserLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+#AdmUserLeftMenu .UserBgIconCate{background:url(users.png) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:3px;margin-right:3px}
+*html #AdmUserLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent;border:0;}
+*html #AdmUserLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+
+/*Left Menu*/
+
+#ManagerUser{}
+#ManagerUser .BgUserTabTool{background:url(BgTabTool.png) repeat-x;width:775px;height:28px}
+#ManagerUser .BgUserTabTool .pdTool{padding-left:10px}
+#ManagerUser .BgUserTabTool .TextOnTab{font:bold 11px Tahoma;color:#545454;display:block;line-height:31px}
+#ManagerUser .BgUserTabTool a.LinkCreate{float:left;font:bold 11px Tahoma;color:#545454;display:block;line-height:28px;text-decoration:none}
+#ManagerUser .BgUserTabTool a.LinkCreate:hover{color:#52c313}
+#ManagerUser .BgUserTabTool .SpaceCol{float:left;padding:8px 15px 0 15px}
+#ManagerUser .BgUserTabTool .FormatIcon{float:left;padding-top:7px;padding-right:6px}
+
+#ManagerUser .BgTabTitle{font:bold 11px Tahoma;color:#545454;background-color:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#ManagerUser .BgTabTitle .FormatCheckBox{float:left;width:44px;padding-top:3px}
+#ManagerUser .BgTabTitle .FormatTitle{float:left;width:120px}
+#ManagerUser .BgTabTitle .FormatDcreateDate{float:left;width:130px}
+#ManagerUser .BgTabTitle .FormatTimeLogin{float:left;width:130px}
+#ManagerUser .BgTabTitle .FormatTimeLogout{float:left;width:130px}
+#ManagerUser .BgTabTitle .FormatStatus{float:left;width:70px}
+#ManagerUser .BgTabTitle .FormatTool{}
+#ManagerUser .BgContainContent{font:normal 11px Tahoma;color:#545454}
+#ManagerUser .BgContainContent .FormatCellItem{}
+#ManagerUser .BgContainContent .FormatCellItem:hover{background-color:#edf9eb}
+#ManagerUser .BgContainContent .pdCellItem{padding-bottom:8px;padding-top:0}
+#ManagerUser .BgContainContent .FormatSpaceCol{float:left;padding-top:8px}
+#ManagerUser .BgContainContent .FormatCheckBox{float:left;width:44px;padding-left:1px;padding-top:5px}
+#ManagerUser .BgContainContent .FormatTitle{float:left;width:119px;padding-left:4px;padding-top:8px}
+#ManagerUser .BgContainContent .FormatDcreateDate{float:left;width:128px;padding-left:5px;padding-top:8px;text-align:left}
+#ManagerUser .BgContainContent .FormatTimeLogin{float:left;width:128px;padding-left:5px;padding-top:8px;text-align:left}
+#ManagerUser .BgContainContent .FormatTimeLogout{float:left;width:128px;padding-left:5px;padding-top:8px;text-align:left}
+#ManagerUser .BgContainContent .FormatStatus{float:left;width:70px;padding-left:2px;padding-top:10px}
+#ManagerUser .BgContainContent .FormatIconTool{float:right;padding-right:12px;padding-top:6px}
+#ManagerUser .BgContainContent .FormatIconTool a.Tool{text-decoration:none}
+#ManagerUser .BgContainContent .SpaceItem{background-color:#d1d1d1;height:1px}
+#ManagerUser .BgContainContent .pdSpaceItem{padding:0px 7px}
+#ManagerUser .BgContainContent .UserBgIconInformation{background:url(Information.png) no-repeat;width:16px;height:16px;}
+#ManagerUser .BgContainContent .UserBgIconChangePassword{background:url(ChangePassword.png) no-repeat;width:18px;height:18px;}
+
+#ManagerUser #CreateUser{}
+#ManagerUser #CreateUser .pdControl{padding:8px 10px}
+#ManagerUser #CreateUser .Col1{float:left;width:340px;border-right:dotted 1px #444}
+#ManagerUser #CreateUser .Col2{float:left;width:380px;padding-left:10px}
+#ManagerUser #CreateUser .TextInformationAcount{font:bold 11px Tahoma;color:#444;padding-bottom:8px}
+#ManagerUser #CreateUser .ColText{float:left;width:100px;padding-top:5px}
+#ManagerUser #CreateUser .ColdRole{float:left;width:160px;padding-right:10px}
+#ManagerUser #CreateUser .pdButton{padding-left:100px;padding-top:10px}
+#ManagerUser #CreateUser .cRed{color:#ff0000}
+
+#ManagerUser #ChangePassword .pdControl{padding:8px 10px}
+#ManagerUser #ChangePassword .ColText{float:left;width:100px;padding-top:5px}
+#ManagerUser #ChangePassword .pdButton{padding-left:100px;padding-top:10px}
+#ManagerUser .textbox{border:solid 1px #d8d8d8}
+
+#PopUpInformationAccount{font:normal 12px Tahoma}
+#PopUpInformationAccount .bdControl{border:solid 1px #9d9b9b}
+#PopUpInformationAccount .bgTabControl{background-color:#ddd;height:32px;display:block;font:bold 12px Tahoma;color:#444;line-height:32px}
+#PopUpInformationAccount .bgSpaceRow{background-color:#ddd;height:1px}
+#PopUpInformationAccount .pdSpaceRow{padding:3px 0}
+#PopUpInformationAccount .ColText{float:left;width:200px;padding:5px 0 5px 10px}
+#PopUpInformationAccount .ColValue{float:left;width:300px;padding:5px 0}
+#PopUpInformationAccount .mhRightContent{height:auto;min-height:440px;_height:440px}
+#PopUpInformationAccount .khungDoiMatKhauVaThongTin{text-align:right;padding-top:50px;padding-right:20px}
+#PopUpInformationAccount .textbox{border:solid 1px #d8d8d8;padding:2px;width:250px}
+#PopUpInformationAccount .pt40{padding-top:40px}
+#PopUpInformationAccount .pt10{padding-top:10px}
+#PopUpInformationAccount .cotTrai{float:left;width:130px}

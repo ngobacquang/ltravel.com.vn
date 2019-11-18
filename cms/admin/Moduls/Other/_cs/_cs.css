@@ -1,0 +1,76 @@
+﻿.PositionLeftControl{float:left;width: 207px}
+.PositionRightControl{float:left;width:775px;min-height: 550px}
+
+#FooterRightControl{border-top:0;text-align:right}
+#FooterRightControl .pdFooterR{padding-left: 10px}
+#FooterRightControl .ColShowItem{ float: right;width: 120px;padding-top: 12px}
+#FooterRightControl .ColShowItem .TextShow{ float: left;width: 50px;padding-top:3px;padding-right:5px}
+#FooterRightControl .ColShowItem .BoxShow{ float: left;width: 50px}
+#FooterRightControl .ColPagging{float:right;width:auto}
+
+#admitem .ColShowItem{ float: right;width: 120px;padding-top: 0}
+#admitem .ColShowItem .TextShow{ float: left;width: 50px;padding-top:0;padding-right:5px}
+#admitem .ColShowItem .BoxShow{ float: left;width: 50px}
+#admitem .ColPagging{float:right;width:auto}
+#admitem .AdminPagging a {}
+#admitem .AdminPagging .currentPS {  
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 9px;
+}
+#admitem .AdminPagging .otherPS {   
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 9px;
+}
+#admitem .AdminPagging .firstPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 19px;
+}
+#admitem .AdminPagging .lastPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 19px;
+}
+#admitem .AdminPagging .previewPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 12px;
+}
+#admitem .AdminPagging .nextPS {
+    line-height: 12px;
+    margin: 1px;
+    padding: 3px 12px;
+}
+/*End LoadControls - Khung trang trai-phai - end*/
+
+/*Left SupportOnline - Cac menu quan ly ben trai*/
+#lm_OtherModul{}
+#lm_OtherModul .BgTabTongQuan{background:url(BgTabTongQuan.png) no-repeat;width:204px;height:37px}
+#lm_OtherModul .BgTabTongQuan a.TextInTabTongQuan{font:bold 12px Tahoma;color:#464646;display:block;padding-left:13px;line-height:29px;text-decoration:none}
+#lm_OtherModul .BgTabTongQuan a.TextInTabTongQuan:hover{color:#52c313}
+#lm_OtherModul .DanhMucQuanLy{font:bold 11px Tahoma;color:#4e4e4e;padding-left:13px;padding-top:5px}
+
+
+#lm_OtherModul a.TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:20px}
+#lm_OtherModul a.TextCateManager:hover{color:#00ad24}
+#lm_OtherModul a.Selected{font-weight:bold}
+#lm_OtherModul .PdSpaceCate{height:1px;padding:3px 0}
+#lm_OtherModul .SpaceCate{background-color:#d4d4d4;height:1px;width:195px;}
+#lm_OtherModul .ArroundCatesl a{color: #00ad24}
+
+/*Left SupportOnline - Cac menu quan ly ben trai - end*/
+
+
+/*Kiểm tra trùng link*/
+#DcLink{margin:0 10px;border:solid 1px #d4d4d4;background: #f9f9f9;min-height: 650px}
+#DcLink .searchBox{border-bottom:solid 1px #dfdfdf;padding:10px}
+#DcLink .searchBox input[type=text]{width:60%;padding-left:5px}
+
+#DcLink .contentBox{padding:20px 10px}
+#DcLink table{border-collapse:collapse;border:solid 1px #dfdfdf;width:100%}
+#DcLink table th,
+#DcLink table td{border:solid 1px #dfdfdf;padding:5px}
+#DcLink table th:nth-child(4){width:50px}
+#DcLink table tr:hover{background:#edf9eb}

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="RegisEmail.aspx.cs" Inherits="cms_display_Ajax_RegisEmail" %>

@@ -1,0 +1,84 @@
+﻿body{font:normal 11px Tahoma;background:#dedede}
+body a{text-decoration:none;font:normal 11px Tahoma;color:#4e4e4e}
+body a:hover{color:#00ad24}
+a,span,input[type=submit]{-moz-transition:all 0.3s ease 0s;-webkit-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
+input[type=text],textarea,select{border:solid 1px #d4d4d4;font:normal 12px Tahoma;color:#333}
+input[type=text]:focus,textarea:focus,select:focus{background:#dbffe0}
+.CautionStop{font:normal 20px Tahoma;color:Red;line-height:150px;text-align:center;height:450px;text-decoration:blink}
+
+input[type=text].active{background:#dbffe0;
+animation:inputactive 2s linear 1s infinite alternate;
+/* Safari and Chrome: */
+-webkit-animation:inputactive 2s linear 1s infinite alternate;}
+
+@keyframes inputactive
+{
+0%   {background:#fff}
+100%  {background:#dbffe0}
+}
+
+@-webkit-keyframes inputactive /* Safari and Chrome */
+{
+0%   {background:#fff}
+100%  {background:#dbffe0}
+}
+
+input[type=text]:focus{animation:none;-webkit-animation:none}
+
+/*Admin Common*/
+.BgPageAdmin{background:url(admin/BgPageAdmin.png) #dedede top center repeat-x;}
+.BgPageContentWebsite{background:url(admin/BgPageContentWebsite.png) center center repeat-y}
+.BgBottomPage{background:url(admin/BgBottomPage.png) bottom center no-repeat;width:998px;height:16px;margin:auto;}
+*html .BgBottomPage{width:998px;height:16px;margin:auto;background:#fff;}
+
+.FormatWidth{width:998px}
+.FormatPageContainContent{width:998px;min-height:500px;_height:500px;background-color:#fff}
+
+.pdPageContainContent{padding-left:7px;padding-right:8px;position:relative;z-index:1}
+.pdFooter{padding-left:75px}
+.BArMenu{background:url(admin/BArMenu.png) no-repeat;width:1008px;height:30px}
+
+/*Tab Tong Quan*/
+.BgTabTongQuan{background:url(admin/BgTabTongQuan.png) no-repeat;width:204px;height:37px}
+.BgTabTongQuan a.TextInTabTongQuan{font:bold 12px Tahoma;color:#464646;display:block;padding-left:13px;line-height:29px;text-decoration:none}
+.BgTabTongQuan a.TextInTabTongQuan:hover{color:#52c313}
+/*Ket thuc Tab Tong Quan*/
+
+/*Star thumb*/
+.thumbnail{position: relative;}
+.thumbnail:hover{background-color: transparent;z-index: 0;}
+.thumbnail span{position: absolute;border: 1px solid gray;visibility: hidden;color: black;text-decoration: none;z-index: 1150;}
+.thumbnail span img{width:150px;border:0}
+.thumbnail:hover span{visibility: visible;}
+/*End thumbnail*/
+
+/*Pagging*/
+.AdminPagging,
+#AdminPagging{font:normal 11px Tahoma}
+.AdminPagging a,
+#AdminPagging a{text-decoration:none}
+.AdminPagging .currentPS,
+#AdminPagging .currentPS{color:#fff;line-height:20px;padding:7px 9px;margin:1px;display: inline-block; background:url(admin/btCurrent.jpg) center center no-repeat}
+.AdminPagging .otherPS,
+#AdminPagging .otherPS{color:#000;line-height:20px;padding:7px 9px;margin:1px;display: inline-block;background:url(admin/btOther.jpg) center center  no-repeat}
+.AdminPagging .firstPS,
+#AdminPagging .firstPS{line-height:25px;padding:7px 19px;margin:1px;display: inline-block;background:url(admin/btFirst.jpg) center center  no-repeat}
+.AdminPagging .lastPS,
+#AdminPagging .lastPS{line-height:25px;padding:7px 19px;margin:1px;display: inline-block;background:url(admin/btLast.jpg) center center  no-repeat}
+.AdminPagging .previewPS,
+#AdminPagging .previewPS{line-height:25px;padding:7px 12px;margin:1px;display: inline-block;background:url(admin/btPreview.jpg) center center  no-repeat}
+.AdminPagging .nextPS,
+#AdminPagging .nextPS{line-height:25px;padding:7px 12px;margin:1px;display: inline-block;background:url(admin/btNext.jpg) center center  no-repeat}
+
+.ColPrintAndExcel{position:relative;float:left;width:50px;margin-right:10px;top:-4px}
+.ColPrintAndExcel .ColPrint{float:left;width:24px}
+.ColPrintAndExcel .ColExcel{float:left;width:20px}
+
+#FooterRightControl{border-top: solid 1px #ccc}
+#FooterRightControl .pdFooterR{padding-left: 10px}
+#FooterRightControl .ColShowItem{ float: left;width: 120px;padding-top: 12px}
+#FooterRightControl .ColShowItem .TextShow{ float: left;width: 50px;padding-top: 3px}
+#FooterRightControl .ColShowItem .BoxShow{ float: left;width: 50px}
+#FooterRightControl .ColPagging{ float: left;width: 600px}
+
+div[id^=Toogle_]{display:none}

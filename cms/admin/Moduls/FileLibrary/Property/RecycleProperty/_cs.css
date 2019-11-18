@@ -1,0 +1,37 @@
+﻿#FileLibraryRecycleProperty{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#FileLibraryRecycleProperty .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#FileLibraryRecycleProperty .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#FileLibraryRecycleProperty .BgTabTitle a{font-weight:bold;line-height:26px}
+#FileLibraryRecycleProperty .split{float:left;width:9px;text-align:center}
+#FileLibraryRecycleProperty .cot1,#FileLibraryRecycleProperty .cot2,#FileLibraryRecycleProperty .cot3,#FileLibraryRecycleProperty .cot4,#FileLibraryRecycleProperty .cot5{float:left}
+#FileLibraryRecycleProperty .cot1{ width: 30px}
+#FileLibraryRecycleProperty .cot2{width:220px;padding-left:5px}
+#FileLibraryRecycleProperty .cot4{width:350px}
+#FileLibraryRecycleProperty .cot5{width:55px}
+#FileLibraryRecycleProperty .cot7{float: right;width: 50px;padding-right: 10px}
+#FileLibraryRecycleProperty input[type=text]{width:40px;text-align:center}
+
+#FileLibraryRecycleProperty .content{}
+#FileLibraryRecycleProperty .content .FormatCellItem{background-color: #F2F2F2}
+#FileLibraryRecycleProperty .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#FileLibraryRecycleProperty .content .FormatCellItemOther{background-color: transparent}
+#FileLibraryRecycleProperty .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#FileLibraryRecycleProperty .content .pdCellItem{padding: 10px 0}
+#FileLibraryRecycleProperty .content .pdCellItemOther{padding: 10px 0}
+
+#FileLibraryRecycleProperty .content .splitc{float:left;width:9px;text-align:center}
+#FileLibraryRecycleProperty .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#FileLibraryRecycleProperty .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#FileLibraryRecycleProperty .content .Tool{ padding-left: 10px;float: right}
+#FileLibraryRecycleProperty .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#FileLibraryRecycleProperty .EnableIcon0,#FileLibraryRecycleProperty .EnableIcon1{padding-top: 3px}
+
+#FileLibraryRecycleProperty .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#FileLibraryRecycleProperty .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

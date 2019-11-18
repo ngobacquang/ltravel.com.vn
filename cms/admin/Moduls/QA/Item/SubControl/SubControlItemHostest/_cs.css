@@ -1,0 +1,13 @@
+﻿#SubQAItemHostest{border:solid 1px #d8d8d8;border-top:solid 3px #cfcfcf;max-height:307px;padding-bottom:1px;margin-bottom:20px}
+#SubQAItemHostest .header{background:#f1f1f1;height:28px}
+#SubQAItemHostest .tab{float:left;width:218px;height:25px;display:block;margin:4px 0 0 15px;padding-left:15px;background:#fff;font:bold 11px/25px Tahoma;color:#343434;text-transform:uppercase;box-shadow:0px -3px 3px #d8d8d8}
+#SubQAItemHostest .icon{float:right;width:20px;padding-top:6px}
+#SubQAItemHostest .content{overflow:auto;max-height:277px;clear:both;min-height:50px}
+#SubQAItemHostest .head{background:#f1f1f1;padding:5px 0}
+#SubQAItemHostest .Item{border-bottom:solid 1px #dfdfdf;padding:3px 0 2px 0}
+#SubQAItemHostest .Item:hover{background:#dbffe0}
+#SubQAItemHostest .Item .tool a{padding:0 3px}
+#SubQAItemHostest .cot1{float:left;width:50%}
+#SubQAItemHostest .cot2{float:right;width:10%;text-align:right}
+#SubQAItemHostest .cot3{float:right;width:20%;text-align:right}
+#SubQAItemHostest .tool{width:75px;text-align:right}

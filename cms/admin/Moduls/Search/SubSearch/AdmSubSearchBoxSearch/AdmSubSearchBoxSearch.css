@@ -1,0 +1,11 @@
+﻿#AdmSubSearchBoxSearch{padding-top:15px}
+#AdmSubSearchBoxSearch .FormatBoxKeySearch{float:right;width:214px}
+#AdmSubSearchBoxSearch .FormatBoxKeySearch .bgBoxKeySearch{background:url(BgKeySearch.png) repeat-x;
+width:200px;height:18px;border:solid 1px #dbdbdb;font:normal 11px Tahoma;color:#aeaeae;line-height:18px;padding-left:5px}
+#AdmSubSearchBoxSearch .FormatBoxDropDownListModul{float:right;width:170px}
+#AdmSubSearchBoxSearch .FormatBoxDropDownListModul .bgDdlModul{background:url(BgKeySearch.png) repeat-x;
+width:160px;height:22px;border:solid 1px #dbdbdb;font:normal 11px Tahoma;color:#aeaeae;padding-left:5px;padding-bottom:3px}
+#AdmSubSearchBoxSearch .FormatBtnSearch{float:right;padding-right:50px;padding-top:1px}
+
+#AdmSubSearchBoxSearch .BtnSearch{background:url(SearchButton.png) no-repeat;width:59px;height:20px;text-decoration:none}
+#AdmSubSearchBoxSearch .BtnSearch:hover{background:url(SearchButtonHover.png) no-repeat}

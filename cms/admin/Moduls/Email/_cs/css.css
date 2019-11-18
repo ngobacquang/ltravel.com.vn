@@ -1,0 +1,73 @@
+﻿#AdmPageSingleContentLoadControls{position:relative;width:998px;font:normal 11px Tahoma}
+#AdmPageSingleContentLoadControls .PositionLeftControl{float:left;width:208px}
+#AdmPageSingleContentLoadControls .PositionRightControl{float:left;width:775px;border:solid 1px #d4d4d4;background-color:#f9f9f9;min-height:560px}
+#AdmPageSingleContentLoadControls .PositionRightControlModul{float:left;width:775px;min-height:560px}
+#AdmPageSingleContentLoadControls a.arrowSort{background:url(arrowSort.jpg) no-repeat right center;color:#545454;text-decoration:none;padding-right:9px;font:bold 11px/26px Tahoma}
+#AdmPageSingleContentLoadControls a.arrowSort:hover{color:#4eb913}
+
+#AdmPageSingleContentLeftMenu{}
+#AdmPageSingleContentLeftMenu .PageSingleContentBgIconItem{background:url(ManagerItem.png) no-repeat;width:16px;height:18px;float:left;margin-left:8px;margin-top:4px;margin-right:3px}
+#AdmPageSingleContentLeftMenu .PageSingleContentBgIconItemAdd{background:url(CreateItem.png) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:4px;margin-right:3px}
+#AdmPageSingleContentLeftMenu .PageSingleContentBgIconReport{background:url(chart.png) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:4px;margin-right:3px}
+#AdmPageSingleContentLeftMenu .PageSingleContentBgIconRecycleBin{background:url(RecycleBin.gif) no-repeat;width:16px;height:16px;float:left;margin-left:8px;margin-top:4px;margin-right:3px}
+
+#AdmPageSingleContentLeftMenu .DanhMucQuanLy{font:bold 11px Tahoma;color:#4e4e4e;padding-left:13px;padding-top:5px}
+#AdmPageSingleContentLeftMenu .TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmPageSingleContentLeftMenu a.TextCateManager{float:left;font:normal 11px Tahoma;color:#4e4e4e;text-decoration:none;line-height:24px}
+#AdmPageSingleContentLeftMenu a.TextCateManager:hover{color:#00ad24}
+#AdmPageSingleContentLeftMenu .InvisibleSpaceCate{display:none}
+#AdmPageSingleContentLeftMenu .PdSpaceCate{height:1px;padding:5px 0 3px 0px}
+#AdmPageSingleContentLeftMenu .SpaceCate{background-color:#d4d4d4;height:1px;width:195px}
+#AdmPageSingleContentLeftMenu .PdIconInfomation{float:left;padding-left:9px;width:20px;padding-top:4px}
+#AdmPageSingleContentLeftMenu .PdSubIconRecycleBin{float:left;padding-left:45px;width:10px;padding-top:5px}
+#AdmPageSingleContentLeftMenu .PdIconSeo{float:left;padding-left:9px;width:20px;padding-top:4px}
+#AdmPageSingleContentLeftMenu .PdIconMail{float:left;padding-left:9px;width:20px;padding-top:6px}
+#AdmPageSingleContentLeftMenu .ArroundCate{position:relative;left:1px;width:208px;height:24px;border-left:solid 1px Transparent;border-top:solid 1px Transparent;border-bottom:solid 1px Transparent}
+#AdmPageSingleContentLeftMenu .ArroundCateSelected{background-color:#f9f9f9;position:relative;left:1px;width:207px;height:24px;border-left:solid 1px #d4d4d4;border-top:solid 1px #d4d4d4;border-bottom:solid 1px #d4d4d4}
+
+
+/*Khung cac controls*/
+.BgTabTool{background:url(BgTabTool.png) repeat-x;height:28px}
+.BgTabTool .pdTool{padding-left:15px}
+.BgTabTool .TextOnTab{font:bold 11px Tahoma;color:#545454;display:block;line-height:31px}
+.BgTabTool a.LinkCreate{float:left;font:bold 11px Tahoma;color:#545454;display:block;line-height:31px;text-decoration:none}
+.BgTabTool a.LinkCreate:hover{color:#52c313}
+.BgTabTool .SpaceCol{float:left;padding:8px 10px 0 10px}
+.BgTabTool .FormatIcon{float:left;padding-top:7px;padding-right:6px}
+
+.SplitBar{float:left;width:5px}
+.FormatOnTabCollumTool{float:right;padding-right:15px}
+.IconTool{float:right;padding-right:8px}
+.TextInBox{font:normal 11px Tahoma;width:22px;height:13px;text-align:center}
+
+.FormatCellItem:hover{background:#edf9eb}
+.pdCellItem{padding-top:8px;padding-bottom:5px}
+.pdCellItem .FormatCheckBox{padding-top:0;margin-top:-2px}
+
+.pdSpaceItem{padding:0px 7px}
+.SpaceItem{background-color:#d1d1d1;height:1px}
+/*Khung cac controls - end*/
+
+
+/*Category*/
+#ProductAdmControlsCategory .BgTabTitle{font:bold 11px Tahoma;color:#545454;background-color:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+
+#ProductAdmControlsCategory .FormatCheckBox{float:left;width:44px;padding-top:3px}
+#ProductAdmControlsCategory .FormatTitle{float:left;width:180px;padding-left:5px}
+#ProductAdmControlsCategory .FormatChildMenu{float:left;width:100px}
+#ProductAdmControlsCategory .FormatTotalItem{float:left;width:100px}
+#ProductAdmControlsCategory .FormatOrder{float:left;width:60px}
+#ProductAdmControlsCategory .FormatView{float:left;width:80px}
+#ProductAdmControlsCategory .FormatStatus{float:left;width:80px}
+#ProductAdmControlsCategory .FormatTextBox{float:right;padding-top:2px;padding-right:3px}
+/*Category - end*/
+#AdmControlsSendEmail .guiCho{font:bold 13px Arial;padding:0 0 15px 0}
+#AdmControlsSendEmail .doiTuong{padding-bottom:15px}
+#AdmControlsSendEmail .pb{padding-bottom:10px}
+#AdmControlsSendEmail .pt{padding-top:10px}
+#AdmControlsSendEmail .Gui{padding:20px 0}
+#AdmControlsSendEmail .GuiTop{padding:20px 0 10px 0}
+#AdmControlsSendEmail .pdControl{padding:0 10px}
+#AdmControlsSendEmail .khungND{font:bold 12px Arial;padding-bottom:10px}
+#AdmControlsSendEmail .khungDaGui{border:dotted 1px #d0d0d0;padding:10px;margin-bottom:10px;max-height:300px;overflow:auto}
+#AdmControlsSendEmail .text1{font:bold 12px Arial}

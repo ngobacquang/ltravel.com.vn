@@ -1,0 +1,34 @@
+﻿#TrainTicketControlFilter{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#TrainTicketControlFilter .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#TrainTicketControlFilter .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#TrainTicketControlFilter .BgTabTitle a{font-weight:bold;line-height:26px}
+#TrainTicketControlFilter .split{float:left;width:9px;text-align:center}
+#TrainTicketControlFilter .cot1,#TrainTicketControlFilter .cot2,#TrainTicketControlFilter .cot3,#TrainTicketControlFilter .cot4,#TrainTicketControlFilter .cot5,#TrainTicketControlFilter .cot6,#TrainTicketControlFilter .cot7{float:left}
+#TrainTicketControlFilter .cot1{width:30px;text-align:center}
+#TrainTicketControlFilter .cot2{width:180px;padding-left:10px;position:relative;z-index:1}
+#TrainTicketControlFilter .cot3{width:120px;padding-left:5px}
+#TrainTicketControlFilter .cot4{width:100px}
+#TrainTicketControlFilter .cot5{width:55px}
+#TrainTicketControlFilter .cot6{width:70px}
+#TrainTicketControlFilter .cot7{width: 120px;text-align: right;float:right;padding-right:10px}
+#TrainTicketControlFilter input[type=text]{width:40px;text-align:center}
+
+#TrainTicketControlFilter .content{}
+#TrainTicketControlFilter .content .FormatCellItem{background-color: #F2F2F2}
+#TrainTicketControlFilter .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#TrainTicketControlFilter .content .FormatCellItemOther{background-color: transparent}
+#TrainTicketControlFilter .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#TrainTicketControlFilter .content .pdCellItem{padding: 10px 0}
+#TrainTicketControlFilter .content .pdCellItemOther{padding: 10px 0}
+
+#TrainTicketControlFilter .content .splitc{float:left;width:9px;text-align:center}
+#TrainTicketControlFilter .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#TrainTicketControlFilter .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#TrainTicketControlFilter .content .Tool{ padding-left: 10px;float: right}
+#TrainTicketControlFilter .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#TrainTicketControlFilter .EnableIcon0,#TrainTicketControlFilter .EnableIcon1{padding-top: 3px}
+
+#TrainTicketControlFilter .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}
+#TrainTicketControlFilter .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;display:block;position:absolute;z-index:1;left:-4px;top:1px}

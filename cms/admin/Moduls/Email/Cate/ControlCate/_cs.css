@@ -1,0 +1,34 @@
+﻿#EmailControlCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#EmailControlCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#EmailControlCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;line-height:26px}
+#EmailControlCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#EmailControlCate .split{float:left;width:9px;text-align:center}
+#EmailControlCate .cot1,#EmailControlCate .cot2,#EmailControlCate .cot3,#EmailControlCate .cot4,#EmailControlCate .cot5,#EmailControlCate .cot6,#EmailControlCate .cot7{float:left}
+#EmailControlCate .cot1{width:30px;text-align:center}
+#EmailControlCate .cot2{width:220px;padding-left:5px}
+#EmailControlCate .cot3{width:100px;padding-left:5px}
+#EmailControlCate .cot4{width:100px}
+#EmailControlCate .cot5{width:55px}
+#EmailControlCate .cot6{width:70px}
+#EmailControlCate .cot7{float:right;text-align: right}
+#EmailControlCate input[type=text]{width:40px;text-align:center}
+
+#EmailControlCate .content{}
+#EmailControlCate .content .FormatCellItem{background-color: #F2F2F2}
+#EmailControlCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#EmailControlCate .content .FormatCellItemOther{background-color: transparent}
+#EmailControlCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#EmailControlCate .content .pdCellItem{padding: 10px 0}
+#EmailControlCate .content .pdCellItemOther{padding: 10px 0}
+
+#EmailControlCate .content .splitc{float:left;width:9px;text-align:center}
+#EmailControlCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#EmailControlCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#EmailControlCate .content .Tool{ padding-left: 10px;float: right}
+#EmailControlCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#EmailControlCate .EnableIcon0,#EmailControlCate .EnableIcon1{padding-top: 3px}
+
+#EmailControlCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#EmailControlCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}

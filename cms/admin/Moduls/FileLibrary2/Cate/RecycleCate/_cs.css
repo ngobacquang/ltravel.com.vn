@@ -1,0 +1,37 @@
+﻿#RecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#RecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#RecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#RecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#RecycleCate .split{float:left;width:9px;text-align:center}
+#RecycleCate .cot1,#RecycleCate .cot2,#RecycleCate .cot3,#RecycleCate .cot4,#RecycleCate .cot5{float:left}
+#RecycleCate .cot1{ width: 30px}
+#RecycleCate .cot2{width:220px;padding-left:5px}
+#RecycleCate .cot4{width:350px}
+#RecycleCate .cot5{width:55px}
+#RecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#RecycleCate input[type=text]{width:40px;text-align:center}
+
+#RecycleCate .content{}
+#RecycleCate .content .FormatCellItem{background-color: #F2F2F2}
+#RecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#RecycleCate .content .FormatCellItemOther{background-color: transparent}
+#RecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#RecycleCate .content .pdCellItem{padding: 10px 0}
+#RecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#RecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#RecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#RecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#RecycleCate .content .Tool{ padding-left: 10px;float: right}
+#RecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#RecycleCate .EnableIcon0,#RecycleCate .EnableIcon1{padding-top: 3px}
+
+#RecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#RecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

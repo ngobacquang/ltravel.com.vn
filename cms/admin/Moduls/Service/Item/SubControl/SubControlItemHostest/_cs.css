@@ -1,0 +1,13 @@
+﻿#SubServiceItemHostest{border:solid 1px #d8d8d8;border-top:solid 3px #cfcfcf;max-height:307px;padding-bottom:1px;margin-bottom:20px}
+#SubServiceItemHostest .header{background:#f1f1f1;height:28px}
+#SubServiceItemHostest .tab{float:left;width:218px;height:25px;display:block;margin:4px 0 0 15px;padding-left:15px;background:#fff;font:bold 11px/25px Tahoma;color:#343434;text-transform:uppercase;box-shadow:0px -3px 3px #d8d8d8}
+#SubServiceItemHostest .icon{float:right;width:20px;padding-top:6px}
+#SubServiceItemHostest .content{overflow:auto;max-height:277px;clear:both;min-height:50px}
+#SubServiceItemHostest .head{background:#f1f1f1;padding:5px 0}
+#SubServiceItemHostest .Item{border-bottom:solid 1px #dfdfdf;padding:3px 0 2px 0}
+#SubServiceItemHostest .Item:hover{background:#dbffe0}
+#SubServiceItemHostest .Item .tool a{padding:0 3px}
+#SubServiceItemHostest .cot1{float:left;width:50%}
+#SubServiceItemHostest .cot2{float:right;width:10%;text-align:right}
+#SubServiceItemHostest .cot3{float:right;width:20%;text-align:right}
+#SubServiceItemHostest .tool{width:75px;text-align:right}

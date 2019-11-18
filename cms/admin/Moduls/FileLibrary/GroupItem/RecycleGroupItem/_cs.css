@@ -1,0 +1,37 @@
+﻿#FileLibraryRecycleCate{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#FileLibraryRecycleCate .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#FileLibraryRecycleCate .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#FileLibraryRecycleCate .BgTabTitle a{font-weight:bold;line-height:26px}
+#FileLibraryRecycleCate .split{float:left;width:9px;text-align:center}
+#FileLibraryRecycleCate .cot1,#FileLibraryRecycleCate .cot2,#FileLibraryRecycleCate .cot3,#FileLibraryRecycleCate .cot4,#FileLibraryRecycleCate .cot5{float:left}
+#FileLibraryRecycleCate .cot1{ width: 30px}
+#FileLibraryRecycleCate .cot2{width:220px;padding-left:5px}
+#FileLibraryRecycleCate .cot4{width:350px}
+#FileLibraryRecycleCate .cot5{width:55px}
+#FileLibraryRecycleCate .cot7{float: right;width: 50px;padding-right: 10px}
+#FileLibraryRecycleCate input[type=text]{width:40px;text-align:center}
+
+#FileLibraryRecycleCate .content{}
+#FileLibraryRecycleCate .content .FormatCellItem{background-color: #F2F2F2}
+#FileLibraryRecycleCate .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#FileLibraryRecycleCate .content .FormatCellItemOther{background-color: transparent}
+#FileLibraryRecycleCate .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#FileLibraryRecycleCate .content .pdCellItem{padding: 10px 0}
+#FileLibraryRecycleCate .content .pdCellItemOther{padding: 10px 0}
+
+#FileLibraryRecycleCate .content .splitc{float:left;width:9px;text-align:center}
+#FileLibraryRecycleCate .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#FileLibraryRecycleCate .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#FileLibraryRecycleCate .content .Tool{ padding-left: 10px;float: right}
+#FileLibraryRecycleCate .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#FileLibraryRecycleCate .EnableIcon0,#FileLibraryRecycleCate .EnableIcon1{padding-top: 3px}
+
+#FileLibraryRecycleCate .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#FileLibraryRecycleCate .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

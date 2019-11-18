@@ -1,0 +1,37 @@
+﻿#QARecycleProperty{border:solid 1px #d4d4d4;background:#f9f9f9;min-height:650px;_height:650px}
+#QARecycleProperty .BgTabTool{background:#f9f9f9;height:28px;padding:0 15px}
+#QARecycleProperty .BgTabTitle{font:bold 11px Tahoma;background:#eae9e9;border-top:solid 1px #fff;border-bottom:solid 1px #fff;height:28px;line-height:26px}
+#QARecycleProperty .BgTabTitle a{font-weight:bold;line-height:26px}
+#QARecycleProperty .split{float:left;width:9px;text-align:center}
+#QARecycleProperty .cot1,#QARecycleProperty .cot2,#QARecycleProperty .cot3,#QARecycleProperty .cot4,#QARecycleProperty .cot5{float:left}
+#QARecycleProperty .cot1{ width: 30px}
+#QARecycleProperty .cot2{width:220px;padding-left:5px}
+#QARecycleProperty .cot4{width:350px}
+#QARecycleProperty .cot5{width:55px}
+#QARecycleProperty .cot7{float: right;width: 50px;padding-right: 10px}
+#QARecycleProperty input[type=text]{width:40px;text-align:center}
+
+#QARecycleProperty .content{}
+#QARecycleProperty .content .FormatCellItem{background-color: #F2F2F2}
+#QARecycleProperty .content .FormatCellItem:hover{background-color: #edf9eb}
+
+#QARecycleProperty .content .FormatCellItemOther{background-color: transparent}
+#QARecycleProperty .content .FormatCellItemOther:hover{background-color: #edf9eb}
+
+#QARecycleProperty .content .pdCellItem{padding: 10px 0}
+#QARecycleProperty .content .pdCellItemOther{padding: 10px 0}
+
+#QARecycleProperty .content .splitc{float:left;width:9px;text-align:center}
+#QARecycleProperty .content .SpaceRow{background-color:#D4D4D4;height:1px}
+#QARecycleProperty .content .SpaceRowOther{background-color:#e8e8e8;height:1px}
+#QARecycleProperty .content .Tool{ padding-left: 10px;float: right}
+#QARecycleProperty .content .TextInBox{ width: 30px;font: normal 11px Tahoma;text-align: center}
+#QARecycleProperty .EnableIcon0,#QARecycleProperty .EnableIcon1{padding-top: 3px}
+
+#QARecycleProperty .IcoArrowShow0{ background: url(ico-arrow-current.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+#QARecycleProperty .IcoArrowShow1{ background: url(ico-arrow-show.png) center 3px no-repeat;width: 15px;height: 12px;float: left;display: block}
+
+.ColPrintAndExcel{float:right;width:50px;margin-top:-25px}
+.ColPrint{float:right;width:24px}
+.ColExcel{float:right;width:20px}
+

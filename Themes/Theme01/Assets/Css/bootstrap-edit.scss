@@ -1,0 +1,50 @@
+﻿.btn,
+.form-control{font-size:$font-size;font-family:$font-family}
+
+.table{
+    tr{
+        .table-tools{
+            text-align:right;
+            a{border:dashed 1px transparent;font-size:22px;padding:2px 2px;margin:2px;min-width:38px;display:inline-block;text-align:center;
+              i{color:#0066ff}
+              &:nth-child(even){i{color:#ff6600}}
+            }
+        }
+        &:hover{
+            .table-tools{
+                a{border-color:$color-light;
+                  &:hover{border-style:solid}
+                }
+            }
+        }
+
+        .user-avatar{width:32px;height:32px;border-radius:50%;vertical-align:middle;margin-right:5px}
+        .user-avatar+span{vertical-align:middle}
+    }
+    
+}
+
+select.form-control:not([size]):not([multiple]),
+.custom-file-input,
+.custom-file,
+.custom-file-label,
+.form-control{
+    height: 36px;
+}
+.custom-file-label::after{height:33px}
+
+.custom-file.disabled{
+    .custom-file-label{background-color:#e9ecef}
+}
+
+.form-check *{vertical-align:middle}
+
+@media (min-width: 1200px){
+    .container {
+        max-width: 1200px;
+    }
+}
+
+@media (max-width: 767px) {
+  h1{font-size:2rem}
+}
